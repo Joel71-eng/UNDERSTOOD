@@ -1,7 +1,7 @@
 # === Understood (multimodal build) ===============================================================
 # Tailored to this project's actual layout (mm_app.py / mm_engine.py / bank_build.py / mm_server.py),
 # not a generic Python template - see the comment on each section for why it's here.
-
+#gjl
 # ---- Python runtime ---------------------------------------------------------------------------
 __pycache__/
 *.py[cod]
