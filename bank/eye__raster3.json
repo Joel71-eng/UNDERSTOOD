@@ -1,0 +1,166 @@
+{
+ "id": "eye__raster3",
+ "title": "human eye",
+ "aliases": [
+  "human eye",
+  "eye",
+  "eye anatomy"
+ ],
+ "size": [
+  1500,
+  1571
+ ],
+ "parts": [
+  {
+   "name": "Right visual field",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Left visual field",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Binocular field",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Visual field",
+   "anchor": [
+    0.432,
+    0.2928
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Visual field",
+   "anchor": [
+    0.5793,
+    0.2858
+   ],
+   "side": "right"
+  },
+  {
+   "name": "of right eye",
+   "anchor": [
+    0.404,
+    0.2858
+   ],
+   "side": "left"
+  },
+  {
+   "name": "of left eye",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Right side",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Left side",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Pituitary gland",
+   "anchor": [
+    0.4873,
+    0.5232
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Optic nerves",
+   "anchor": [
+    0.648,
+    0.5207
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Optic chiasm",
+   "anchor": [
+    0.4867,
+    0.578
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Suprachiasmatic",
+   "anchor": [
+    0.488,
+    0.6302
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Optic tract",
+   "anchor": [
+    0.586,
+    0.6327
+   ],
+   "side": "right"
+  },
+  {
+   "name": "nucleus of",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "hypothalamus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Lateral geniculate",
+   "anchor": [
+    0.506,
+    0.7059
+   ],
+   "side": "right"
+  },
+  {
+   "name": "nucleus of thalamus",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Right visual",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Left visual",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "cortex",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "cortex",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Inferior view",
+   "anchor": null,
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:1420 Optical Fields.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:1420_Optical_Fields.jpg",
+  "author": "OpenStax College",
+  "license": "CC BY 3.0"
+ },
+ "credit": "Diagram: 1420 Optical Fields.jpg by OpenStax College (CC BY 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

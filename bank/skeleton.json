@@ -1,0 +1,63 @@
+{
+ "id": "skeleton",
+ "title": "human skeleton",
+ "aliases": [
+  "human skeleton",
+  "skeleton",
+  "bones"
+ ],
+ "size": [
+  1400,
+  2587
+ ],
+ "parts": [
+  {
+   "name": "Foot",
+   "anchor": [
+    0.3862,
+    0.4696
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Hand",
+   "anchor": [
+    0.2522,
+    0.6084
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Leg",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Pelvic girdle",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Arm",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Shoulder girdle",
+   "anchor": [
+    0.2886,
+    0.2163
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Appendicular skeleton diagram.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Appendicular_skeleton_diagram.svg",
+  "author": "LadyofHats Mariana Ruiz Villarreal",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Appendicular skeleton diagram.svg by LadyofHats Mariana Ruiz Villarreal (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

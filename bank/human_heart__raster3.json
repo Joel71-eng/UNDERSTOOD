@@ -1,0 +1,155 @@
+{
+ "id": "human_heart__raster3",
+ "title": "human heart",
+ "aliases": [
+  "human heart",
+  "heart",
+  "heart anatomy"
+ ],
+ "size": [
+  1200,
+  708
+ ],
+ "parts": [
+  {
+   "name": "Superior vena cava",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Left pulmonary artery",
+   "anchor": [
+    0.5833,
+    0.0523
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Aorta",
+   "anchor": [
+    0.3675,
+    0.1949
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Left pulmonary veins",
+   "anchor": [
+    0.6242,
+    0.0904
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Left coronary artery",
+   "anchor": [
+    0.6517,
+    0.2528
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Right atrium",
+   "anchor": [
+    0.2383,
+    0.315
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Right coronary",
+   "anchor": [
+    0.2433,
+    0.4223
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Left circumflex artery",
+   "anchor": [
+    0.6558,
+    0.387
+   ],
+   "side": "right"
+  },
+  {
+   "name": "artery",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Left marginal artery",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Posterior",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "descending artery",
+   "anchor": [
+    0.3442,
+    0.6314
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Left anterior descending",
+   "anchor": [
+    0.6617,
+    0.6243
+   ],
+   "side": "right"
+  },
+  {
+   "name": "artery",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Right",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "diagonal branch",
+   "anchor": [
+    0.6392,
+    0.7401
+   ],
+   "side": "right"
+  },
+  {
+   "name": "marginal artery",
+   "anchor": [
+    0.2425,
+    0.8079
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Left ventricle",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Right ventricle",
+   "anchor": [
+    0.3158,
+    0.9421
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Coronary arteries.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Coronary_arteries.png",
+  "author": "Mikael H\u00e4ggstr\u00f6m",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Coronary arteries.png by Mikael H\u00e4ggstr\u00f6m (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

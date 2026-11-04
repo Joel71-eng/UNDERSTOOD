@@ -1,0 +1,55 @@
+{
+ "id": "animal_cell__alt2",
+ "title": "animal cell",
+ "aliases": [
+  "animal cell"
+ ],
+ "size": [
+  1400,
+  1628
+ ],
+ "parts": [
+  {
+   "name": "H +",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "+ve +ve +ve",
+   "anchor": [
+    0.414,
+    0.3214
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Protein kinase A",
+   "anchor": [
+    0.7083,
+    0.4301
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Hormone-sensitive lipase",
+   "anchor": [
+    0.7366,
+    0.5803
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:ThermogeneseAdipozyten-en.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:ThermogeneseAdipozyten-en.svg",
+  "author": "ThermogeneseAdipozyten.svg : chris \u8ad6 derivative work: Burkhard ( talk )",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: ThermogeneseAdipozyten-en.svg by ThermogeneseAdipozyten.svg : chris \u8ad6 derivative work: Burkhard ( talk ) (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "only 3 labels with a leader line",
+  "no leader line: H +",
+  "anchor on blank background: +ve +ve +ve, Protein kinase A, Hormone-sensitive lipase"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "bacterial_cell__alt3",
+ "title": "bacterial cell",
+ "aliases": [
+  "bacterial cell",
+  "bacterium",
+  "prokaryotic cell"
+ ],
+ "size": [
+  1400,
+  1241
+ ],
+ "parts": [
+  {
+   "name": "NAG",
+   "anchor": [
+    0.102,
+    0.885
+   ],
+   "side": "left"
+  },
+  {
+   "name": "NAM",
+   "anchor": [
+    0.4183,
+    0.8405
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Oligopeptide",
+   "anchor": [
+    0.701,
+    0.834
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Mureine.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mureine.svg",
+  "author": "Mouagip This W3C-unspecified vector image was created with Adobe Illustrator .",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Mureine.svg by Mouagip This W3C-unspecified vector image was created with Adobe Illustrator . (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "only 3 labels with a leader line",
+  "anchor on blank background: NAM"
+ ]
+}

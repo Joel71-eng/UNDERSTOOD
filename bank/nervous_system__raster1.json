@@ -1,0 +1,159 @@
+{
+ "id": "nervous_system__raster1",
+ "title": "nervous system",
+ "aliases": [
+  "nervous system",
+  "human nervous system"
+ ],
+ "size": [
+  1100,
+  907
+ ],
+ "parts": [
+  {
+   "name": "Central Nervous System",
+   "anchor": [
+    0.0,
+    0.1356
+   ],
+   "side": "left"
+  },
+  {
+   "name": "nteg",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Peripheral Nervous System",
+   "anchor": [
+    0.0,
+    0.3352
+   ],
+   "side": "left"
+  },
+  {
+   "name": "nmunic",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Sensory",
+   "anchor": [
+    0.3182,
+    0.5127
+   ],
+   "side": "left"
+  },
+  {
+   "name": "division",
+   "anchor": [
+    0.2255,
+    0.5149
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Motor",
+   "anchor": [
+    0.7536,
+    0.5083
+   ],
+   "side": "right"
+  },
+  {
+   "name": "division",
+   "anchor": [
+    0.6618,
+    0.5226
+   ],
+   "side": "right"
+  },
+  {
+   "name": "mati",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "duct",
+   "anchor": [
+    0.0,
+    0.6538
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Autonomic nervous",
+   "anchor": [
+    0.0,
+    0.7078
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Somatic nervous",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "fight",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "atic",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "sytem",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "nta",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "jucts",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ducts",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "hetic division",
+   "anchor": [
+    0.4109,
+    0.8578
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ath",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "glan",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:NSdiagram.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:NSdiagram.png",
+  "author": "The original uploader was Fuzzform at English Wikipedia .",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: NSdiagram.png by The original uploader was Fuzzform at English Wikipedia . (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: nteg, nmunic, mati, Somatic nervous, fight",
+  "duplicate label names"
+ ]
+}

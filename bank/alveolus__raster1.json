@@ -1,0 +1,140 @@
+{
+ "id": "alveolus__raster1",
+ "title": "alveolus",
+ "aliases": [
+  "alveolus",
+  "alveoli",
+  "gas exchange in the lungs"
+ ],
+ "size": [
+  883,
+  1100
+ ],
+ "parts": [
+  {
+   "name": "Deoxygenated blood",
+   "anchor": [
+    0.59,
+    0.0136
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Oxygenated blood",
+   "anchor": [
+    0.5889,
+    0.0782
+   ],
+   "side": "right"
+  },
+  {
+   "name": "pulmonary artery",
+   "anchor": [
+    0.59,
+    0.14
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Bronchiole",
+   "anchor": [
+    0.2333,
+    0.2109
+   ],
+   "side": "left"
+  },
+  {
+   "name": "From pulmonary artery",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Alveolus",
+   "anchor": [
+    0.5844,
+    0.2755
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Capillaries",
+   "anchor": [
+    0.4824,
+    0.3255
+   ],
+   "side": "right"
+  },
+  {
+   "name": "yes",
+   "anchor": [
+    0.6569,
+    0.3255
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Alveolus wall",
+   "anchor": [
+    0.3556,
+    0.6073
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Capillary wall",
+   "anchor": [
+    0.427,
+    0.6573
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Deoxygenated",
+   "anchor": [
+    0.5153,
+    0.7055
+   ],
+   "side": "right"
+  },
+  {
+   "name": "blood cell",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Carbon dioxide",
+   "anchor": [
+    0.4541,
+    0.7582
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Oxygen",
+   "anchor": [
+    0.427,
+    0.8236
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Oxygenated",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "blood cell",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Anatomytool Alveolar exchange of oxygen English labels.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Anatomytool_Alveolar_exchange_of_oxygen_English_labels.jpg",
+  "author": "Cenveo",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: Anatomytool Alveolar exchange of oxygen English labels.jpg by Cenveo (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

@@ -1,0 +1,223 @@
+{
+ "id": "spinal_cord__raster1",
+ "title": "spinal cord",
+ "aliases": [
+  "spinal cord"
+ ],
+ "size": [
+  1200,
+  1200
+ ],
+ "parts": [
+  {
+   "name": "white",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Posterior",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "column",
+   "anchor": [
+    0.6075,
+    0.3767
+   ],
+   "side": "right"
+  },
+  {
+   "name": "median sulcus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Posterior",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Dorsal root",
+   "anchor": [
+    0.37,
+    0.4242
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Posterior gray",
+   "anchor": [
+    0.4975,
+    0.4617
+   ],
+   "side": "left"
+  },
+  {
+   "name": "commissure",
+   "anchor": [
+    0.5258,
+    0.5258
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Lateral",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Dorsal root",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "gray horn",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "ganglion",
+   "anchor": [
+    0.295,
+    0.4575
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Sensory nuclei",
+   "anchor": [
+    0.4375,
+    0.4417
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Somatic",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Visceral",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Lateral",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Motor nuclei",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "white",
+   "anchor": [
+    0.79,
+    0.5533
+   ],
+   "side": "right"
+  },
+  {
+   "name": "column",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Visceral",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Somatic",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Ventral root",
+   "anchor": [
+    0.3158,
+    0.6467
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Anterior gray",
+   "anchor": [
+    0.5108,
+    0.5667
+   ],
+   "side": "left"
+  },
+  {
+   "name": "commissure",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Anterior",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Anterior white",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "gray horn",
+   "anchor": [
+    0.6658,
+    0.6058
+   ],
+   "side": "right"
+  },
+  {
+   "name": "commissure",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Anterior",
+   "anchor": [
+    0.6067,
+    0.7042
+   ],
+   "side": "right"
+  },
+  {
+   "name": "white",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Anterior median fissure",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "column",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Sectional Organization of the Spinal Cord",
+   "anchor": [
+    0.5483,
+    0.6283
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Spinal Cord Sectional Anatomy.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spinal_Cord_Sectional_Anatomy.png",
+  "author": "BruceBlaus",
+  "license": "CC BY-SA 4.0"
+ },
+ "credit": "Diagram: Spinal Cord Sectional Anatomy.png by BruceBlaus (CC BY-SA 4.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

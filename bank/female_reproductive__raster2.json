@@ -1,0 +1,302 @@
+{
+ "id": "female_reproductive__raster2",
+ "title": "female reproductive system",
+ "aliases": [
+  "female reproductive system"
+ ],
+ "size": [
+  1800,
+  1689
+ ],
+ "parts": [
+  {
+   "name": "Sustained high degree of sexual",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Stimulation and arousal",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "arousal through continued stimulation",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Moistening of the vulva",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "through vaginal lubrication",
+   "anchor": [
+    0.3283,
+    0.2765
+   ],
+   "side": "left"
+  },
+  {
+   "name": "and secretion from the",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Bartholin glands",
+   "anchor": [
+    0.3072,
+    0.3523
+   ],
+   "side": "left"
+  },
+  {
+   "name": "The uterus",
+   "anchor": [
+    0.7339,
+    0.1622
+   ],
+   "side": "right"
+  },
+  {
+   "name": "changes its",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "The vagina increases",
+   "anchor": [
+    0.7917,
+    0.2581
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Clitoris",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "erection",
+   "anchor": [
+    0.7344,
+    0.3203
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Triggering",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "erection of the",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "The outer genital region",
+   "anchor": [
+    0.6889,
+    0.347
+   ],
+   "side": "right"
+  },
+  {
+   "name": "clitoris increasing",
+   "anchor": [
+    0.2083,
+    0.3517
+   ],
+   "side": "left"
+  },
+  {
+   "name": "its sensitivity",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "their colour and their",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "and the anus change",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "pleasure through",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "sensitivity",
+   "anchor": [
+    0.6067,
+    0.3825
+   ],
+   "side": "right"
+  },
+  {
+   "name": "tender touch",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "female Orgasm",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Recovery phase",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "the resting",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "The lubrication",
+   "anchor": [
+    0.6617,
+    0.5654
+   ],
+   "side": "right"
+  },
+  {
+   "name": "The orgasm",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "The clitoris and the other",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "parts of the genital region",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "experienced",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "whole",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "return",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "the state of",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "contractions",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Involuntary muscle",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the genitals and",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "liquid",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "leak from",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the paraurethral glands",
+   "anchor": [
+    0.2489,
+    0.7359
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Clitoris",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Uterus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "further regions with strong blood circulation",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "and increased sensation of pleasure",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Vulva with low blood supply",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Vagina",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Urinary bladder",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Vulva strongly supplied with",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "blood",
+   "anchor": null,
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Phases of sexual arousal and female orgasm.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Phases_of_sexual_arousal_and_female_orgasm.png",
+  "author": "User:Xdon elias and me",
+  "license": "CC BY-SA 4.0"
+ },
+ "credit": "Diagram: Phases of sexual arousal and female orgasm.png by User:Xdon elias and me (CC BY-SA 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Sustained high degree of sexual, Stimulation and arousal, arousal through continued stimulation, Moistening of the vulva, and secretion from the",
+  "anchor on blank background: sensitivity, The lubrication",
+  "duplicate label names"
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "id": "muscle__raster3",
+ "title": "muscle",
+ "aliases": [
+  "muscle",
+  "skeletal muscle"
+ ],
+ "size": [
+  1002,
+  1100
+ ],
+ "parts": [
+  {
+   "name": "Skeletal muscle",
+   "anchor": [
+    0.1916,
+    0.1464
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Epimysium",
+   "anchor": [
+    0.4212,
+    0.0882
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Muscle fascicles",
+   "anchor": [
+    0.4381,
+    0.1118
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Perimysium",
+   "anchor": [
+    0.489,
+    0.4236
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Muscle fascicle",
+   "anchor": [
+    0.2046,
+    0.4409
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Endomysium",
+   "anchor": [
+    0.495,
+    0.4464
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Muscle fibers",
+   "anchor": [
+    0.499,
+    0.47
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Muscle fiber",
+   "anchor": [
+    0.1896,
+    0.7936
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Sarcolemma",
+   "anchor": [
+    0.485,
+    0.7764
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:1007 Muscle Fibes (large).jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:1007_Muscle_Fibes_(large).jpg",
+  "author": "OpenStax",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: 1007 Muscle Fibes (large).jpg by OpenStax (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

@@ -1,0 +1,124 @@
+{
+ "id": "skeleton__raster2",
+ "title": "human skeleton",
+ "aliases": [
+  "human skeleton",
+  "skeleton",
+  "bones"
+ ],
+ "size": [
+  1279,
+  1800
+ ],
+ "parts": [
+  {
+   "name": "Mila",
+   "anchor": [
+    0.6982,
+    0.1083
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Osfurcule",
+   "anchor": [
+    0.3159,
+    0.1106
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Focile",
+   "anchor": [
+    0.3041,
+    0.5
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Focile",
+   "anchor": [
+    0.1916,
+    0.3506
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Offa",
+   "anchor": [
+    0.2533,
+    0.5233
+   ],
+   "side": "left"
+  },
+  {
+   "name": "bein des Rurmbuy",
+   "anchor": [
+    0.4879,
+    0.525
+   ],
+   "side": "left"
+  },
+  {
+   "name": "bels das",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "feie",
+   "anchor": [
+    0.7654,
+    0.5683
+   ],
+   "side": "right"
+  },
+  {
+   "name": "fpatula",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "fined bein des",
+   "anchor": [
+    0.6005,
+    0.8344
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Rotula",
+   "anchor": [
+    0.2752,
+    0.7028
+   ],
+   "side": "left"
+  },
+  {
+   "name": "cina",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "calcane",
+   "anchor": [
+    0.5575,
+    0.8656
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Diagram of a skeleton describing the major bones Wellcome L0039197.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Diagram_of_a_skeleton_describing_the_major_bones_Wellcome_L0039197.jpg",
+  "author": "unknown author",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: Diagram of a skeleton describing the major bones Wellcome L0039197.jpg by unknown author (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: bels das, fpatula, cina",
+  "anchor on blank background: Mila, Focile",
+  "duplicate label names"
+ ]
+}

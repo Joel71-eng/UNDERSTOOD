@@ -1,0 +1,230 @@
+{
+ "id": "male_reproductive__alt2",
+ "title": "male reproductive system",
+ "aliases": [
+  "male reproductive system"
+ ],
+ "size": [
+  1400,
+  705
+ ],
+ "parts": [
+  {
+   "name": "Cloaca",
+   "anchor": [
+    0.8139,
+    0.5361
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Spicule",
+   "anchor": [
+    0.7909,
+    0.5376
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Cloacal opening (rectum)",
+   "anchor": [
+    0.8313,
+    0.7574
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Proctodeum",
+   "anchor": [
+    0.7835,
+    0.6591
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Vas deferens",
+   "anchor": [
+    0.7035,
+    0.69
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Seminal vessicle",
+   "anchor": [
+    0.6025,
+    0.6581
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Valve region",
+   "anchor": [
+    0.6621,
+    0.8542
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pachytene region",
+   "anchor": [
+    0.452,
+    0.3931
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Transition zone",
+   "anchor": [
+    0.4385,
+    0.5759
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Mitotic region",
+   "anchor": [
+    0.4674,
+    0.5626
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Condensation zone",
+   "anchor": [
+    0.5844,
+    0.4803
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Spermatids",
+   "anchor": [
+    0.6096,
+    0.5739
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Lumen of vas deferens",
+   "anchor": [
+    0.757,
+    0.547
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Spermatocytes",
+   "anchor": [
+    0.5719,
+    0.6038
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Mitotic germ cells",
+   "anchor": [
+    0.4603,
+    0.5416
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Intestine",
+   "anchor": [
+    0.2455,
+    0.42
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Lumen of intestine",
+   "anchor": [
+    0.3912,
+    0.4929
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pre-anal ganglion",
+   "anchor": [
+    0.7945,
+    0.5362
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Rectal valve",
+   "anchor": [
+    0.78,
+    0.4142
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Tail",
+   "anchor": [
+    0.8511,
+    0.5606
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Meiotic germ cells",
+   "anchor": [
+    0.3167,
+    0.4224
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Distal tip cells (2)",
+   "anchor": [
+    0.5893,
+    0.6462
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Mouth",
+   "anchor": [
+    0.0687,
+    0.3855
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pharyngeal-intestinal valve",
+   "anchor": [
+    0.1789,
+    0.5206
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pharynx",
+   "anchor": [
+    0.0746,
+    0.5685
+   ],
+   "side": "left"
+  },
+  {
+   "name": "~1mm",
+   "anchor": null,
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:C elegans male-en.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:C_elegans_male-en.svg",
+  "author": "KDS444",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: C elegans male-en.svg by KDS444 (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: ~1mm",
+  "anchor on blank background: Cloacal opening (rectum), Proctodeum, Vas deferens, Seminal vessicle, Valve region"
+ ]
+}

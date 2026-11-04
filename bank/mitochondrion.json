@@ -1,0 +1,89 @@
+{
+ "id": "mitochondrion",
+ "title": "mitochondrion",
+ "aliases": [
+  "mitochondrion",
+  "mitochondria"
+ ],
+ "size": [
+  1400,
+  962
+ ],
+ "parts": [
+  {
+   "name": "partikel ATP sintase",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ruang antarmembran",
+   "anchor": [
+    0.298,
+    0.4378
+   ],
+   "side": "left"
+  },
+  {
+   "name": "matriks",
+   "anchor": [
+    0.4002,
+    0.4771
+   ],
+   "side": "left"
+  },
+  {
+   "name": "krista",
+   "anchor": [
+    0.28,
+    0.5179
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ribosom",
+   "anchor": [
+    0.1789,
+    0.5584
+   ],
+   "side": "left"
+  },
+  {
+   "name": "granula",
+   "anchor": [
+    0.1964,
+    0.6895
+   ],
+   "side": "left"
+  },
+  {
+   "name": "DNA mitokondria",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "membran dalam",
+   "anchor": [
+    0.6329,
+    0.4947
+   ],
+   "side": "right"
+  },
+  {
+   "name": "membran luar",
+   "anchor": [
+    0.6121,
+    0.5913
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Animal mitochondrion diagram id.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Animal_mitochondrion_diagram_id.svg",
+  "author": "Animal_mitochondrion_diagram_en.svg : Mariana Ruiz Villarreal LadyofHats derivat",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Animal mitochondrion diagram id.svg by Animal_mitochondrion_diagram_en.svg : Mariana Ruiz Villarreal LadyofHats derivat (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

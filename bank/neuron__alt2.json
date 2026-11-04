@@ -1,0 +1,145 @@
+{
+ "id": "neuron__alt2",
+ "title": "neuron",
+ "aliases": [
+  "neuron",
+  "nerve cell"
+ ],
+ "size": [
+  1400,
+  1050
+ ],
+ "parts": [
+  {
+   "name": "Input Layer",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Hidden Layer",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Output Layer (Logits)",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Human",
+   "anchor": [
+    0.6875,
+    0.35
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Vehicle",
+   "anchor": [
+    0.6875,
+    0.4667
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Animal",
+   "anchor": [
+    0.6687,
+    0.4917
+   ],
+   "side": "right"
+  },
+  {
+   "name": "FROZEN",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Other",
+   "anchor": [
+    0.6875,
+    0.7
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Normal Bias",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Floor Bias",
+   "anchor": [
+    0.7,
+    0.6
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Normal Logit",
+   "anchor": [
+    0.25,
+    0.925
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Frozen Logit",
+   "anchor": [
+    0.7625,
+    0.9583
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Legend",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Normal Weight",
+   "anchor": [
+    0.7875,
+    0.2667
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Zero Weight",
+   "anchor": [
+    0.7875,
+    0.3083
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Active Logit",
+   "anchor": [
+    0.8,
+    0.4
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Frozen Logit",
+   "anchor": [
+    0.8,
+    0.3833
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Logit-freezing-diagram.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Logit-freezing-diagram.svg",
+  "author": "Claude 3.7 Sonnet",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Logit-freezing-diagram.svg by Claude 3.7 Sonnet (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: Input Layer, Hidden Layer, Output Layer (Logits), FROZEN, Normal Bias",
+  "anchor on blank background: Human, Vehicle, Animal, Other, Floor Bias",
+  "duplicate label names"
+ ]
+}

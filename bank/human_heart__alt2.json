@@ -1,0 +1,121 @@
+{
+ "id": "human_heart__alt2",
+ "title": "human heart",
+ "aliases": [
+  "human heart",
+  "heart",
+  "heart anatomy"
+ ],
+ "size": [
+  1400,
+  1376
+ ],
+ "parts": [
+  {
+   "name": "Aorta",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "PulmonaryArtery",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "PulmonaryVein",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "MitralValve",
+   "anchor": [
+    0.6471,
+    0.4964
+   ],
+   "side": "right"
+  },
+  {
+   "name": "AorticValve",
+   "anchor": [
+    0.5676,
+    0.533
+   ],
+   "side": "right"
+  },
+  {
+   "name": "LeftAtrium",
+   "anchor": [
+    0.7076,
+    0.4526
+   ],
+   "side": "right"
+  },
+  {
+   "name": "RightVentricle",
+   "anchor": [
+    0.4221,
+    0.681
+   ],
+   "side": "left"
+  },
+  {
+   "name": "RightAtrium",
+   "anchor": [
+    0.5122,
+    0.567
+   ],
+   "side": "left"
+  },
+  {
+   "name": "TricuspidValve",
+   "anchor": [
+    0.3132,
+    0.7321
+   ],
+   "side": "left"
+  },
+  {
+   "name": "PulmonaryValve",
+   "anchor": [
+    0.3584,
+    0.7599
+   ],
+   "side": "left"
+  },
+  {
+   "name": "LeftVentricle",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "SuperiorVena Cava",
+   "anchor": [
+    0.3776,
+    0.2879
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Inferior Vena Cava",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Pericardium",
+   "anchor": [
+    0.7243,
+    0.8961
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Diagram of the human heart (cropped).svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Diagram_of_the_human_heart_(cropped).svg",
+  "author": "Wapcaplet",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Diagram of the human heart (cropped).svg by Wapcaplet (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

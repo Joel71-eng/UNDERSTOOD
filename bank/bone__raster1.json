@@ -1,0 +1,103 @@
+{
+ "id": "bone__raster1",
+ "title": "bone structure",
+ "aliases": [
+  "bone structure",
+  "long bone"
+ ],
+ "size": [
+  1000,
+  1500
+ ],
+ "parts": [
+  {
+   "name": "Long Bone",
+   "anchor": [
+    0.725,
+    0.1307
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Epiphysis",
+   "anchor": [
+    0.723,
+    0.2173
+   ],
+   "side": "right"
+  },
+  {
+   "name": "bone",
+   "anchor": [
+    0.31,
+    0.1833
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Metaphysis",
+   "anchor": [
+    0.727,
+    0.5093
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Medullary",
+   "anchor": [
+    0.329,
+    0.4647
+   ],
+   "side": "left"
+  },
+  {
+   "name": "cavity",
+   "anchor": [
+    0.241,
+    0.4287
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Diaphysis",
+   "anchor": [
+    0.727,
+    0.2513
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Compact",
+   "anchor": [
+    0.304,
+    0.5747
+   ],
+   "side": "left"
+  },
+  {
+   "name": "bone",
+   "anchor": [
+    0.376,
+    0.6527
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Metaphysis",
+   "anchor": [
+    0.724,
+    0.5773
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Structure of a Long Bone.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Structure_of_a_Long_Bone.png",
+  "author": "BruceBlaus . When using this image in external sources it can be cited as: Blaus",
+  "license": "CC BY 3.0"
+ },
+ "credit": "Diagram: Structure of a Long Bone.png by BruceBlaus . When using this image in external sources it can be cited as: Blaus (CC BY 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

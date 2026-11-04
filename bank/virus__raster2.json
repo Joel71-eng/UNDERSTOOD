@@ -1,0 +1,201 @@
+{
+ "id": "virus__raster2",
+ "title": "virus",
+ "aliases": [
+  "virus",
+  "virus structure"
+ ],
+ "size": [
+  1100,
+  751
+ ],
+ "parts": [
+  {
+   "name": "Replication",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Plasmalemma",
+   "anchor": [
+    0.9891,
+    0.016
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Virion assembly",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Systemic transport",
+   "anchor": [
+    0.9618,
+    0.008
+   ],
+   "side": "right"
+  },
+  {
+   "name": "MTR",
+   "anchor": [
+    0.1609,
+    0.1425
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Crinivirus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "LIYV",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Replication",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Whitefly transmission determinant",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Replication",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Suppressor of RNA silencing",
+   "anchor": [
+    0.5536,
+    0.3808
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Virion assembly",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "BYV",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "PRO",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "MTR",
+   "anchor": [
+    0.16,
+    0.4474
+   ],
+   "side": "left"
+  },
+  {
+   "name": "POL",
+   "anchor": [
+    0.4282,
+    0.4368
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Closterovirus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "CPm",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Cell-to-cell movement",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Systemic transport",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "PRO",
+   "anchor": [
+    0.2545,
+    0.7164
+   ],
+   "side": "left"
+  },
+  {
+   "name": "iTR",
+   "anchor": [
+    0.1591,
+    0.7177
+   ],
+   "side": "left"
+  },
+  {
+   "name": "POL",
+   "anchor": [
+    0.5036,
+    0.7031
+   ],
+   "side": "left"
+  },
+  {
+   "name": "PSS",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Ampelovirus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "PRO",
+   "anchor": [
+    0.2555,
+    0.9241
+   ],
+   "side": "left"
+  },
+  {
+   "name": "MTR",
+   "anchor": [
+    0.4345,
+    0.9201
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Velarivirus",
+   "anchor": null,
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Fpls-08-01672-g001.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fpls-08-01672-g001.jpg",
+  "author": "Wenjie Qiao, Vicente Medina, and Bryce W. Falk",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: Fpls-08-01672-g001.jpg by Wenjie Qiao, Vicente Medina, and Bryce W. Falk (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Replication, Virion assembly, Crinivirus, LIYV, Replication",
+  "anchor on blank background: Plasmalemma, Systemic transport, MTR, Suppressor of RNA silencing, MTR",
+  "duplicate label names"
+ ]
+}

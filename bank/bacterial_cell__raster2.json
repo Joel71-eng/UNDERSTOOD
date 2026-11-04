@@ -1,0 +1,144 @@
+{
+ "id": "bacterial_cell__raster2",
+ "title": "bacterial cell",
+ "aliases": [
+  "bacterial cell",
+  "bacterium",
+  "prokaryotic cell"
+ ],
+ "size": [
+  1080,
+  1646
+ ],
+ "parts": [
+  {
+   "name": "immediately after",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "hours after",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "bacterial inoculation",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "bacterial inoculation",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "NT-B",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "PT-B",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "PT-B",
+   "anchor": [
+    0.3639,
+    0.3481
+   ],
+   "side": "left"
+  },
+  {
+   "name": "NT-B",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "MHC",
+   "anchor": [
+    0.2519,
+    0.4496
+   ],
+   "side": "left"
+  },
+  {
+   "name": "MHC",
+   "anchor": [
+    0.6296,
+    0.4399
+   ],
+   "side": "right"
+  },
+  {
+   "name": "DAPI",
+   "anchor": [
+    0.1889,
+    0.695
+   ],
+   "side": "left"
+  },
+  {
+   "name": "CFSE",
+   "anchor": [
+    0.1935,
+    0.6191
+   ],
+   "side": "left"
+  },
+  {
+   "name": "DAPI",
+   "anchor": [
+    0.7398,
+    0.7114
+   ],
+   "side": "right"
+  },
+  {
+   "name": "CFSE",
+   "anchor": [
+    0.687,
+    0.6124
+   ],
+   "side": "right"
+  },
+  {
+   "name": "MHC",
+   "anchor": [
+    0.3648,
+    0.6124
+   ],
+   "side": "left"
+  },
+  {
+   "name": "DAPI",
+   "anchor": [
+    0.4593,
+    0.8888
+   ],
+   "side": "left"
+  },
+  {
+   "name": "CFSE",
+   "anchor": [
+    0.1861,
+    0.8882
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:The effect of bacterial inoculation on proteolytic skin maceration and on no treatment skin. Rat.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:The_effect_of_bacterial_inoculation_on_proteolytic_skin_maceration_and_on_no_treatment_skin._Rat.png",
+  "author": "Mugita Y, Minematsu T, Huang L, Nakagami G, Kishi C, Ichikawa Y, et al.",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: The effect of bacterial inoculation on proteolytic skin maceration and on no treatment skin. Rat.png by Mugita Y, Minematsu T, Huang L, Nakagami G, Kishi C, Ichikawa Y, et al. (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: immediately after, hours after, bacterial inoculation, bacterial inoculation, NT-B",
+  "anchor on blank background: MHC, MHC, CFSE",
+  "duplicate label names"
+ ]
+}

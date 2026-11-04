@@ -1,0 +1,180 @@
+{
+ "id": "kidney__alt2",
+ "title": "kidney",
+ "aliases": [
+  "kidney",
+  "human kidney",
+  "urinary system"
+ ],
+ "size": [
+  1400,
+  2623
+ ],
+ "parts": [
+  {
+   "name": "Psychological- Example text",
+   "anchor": [
+    0.4972,
+    0.0918
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Heart- Example text",
+   "anchor": [
+    0.4959,
+    0.292
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Lungs- Example text",
+   "anchor": [
+    0.5538,
+    0.2462
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Intestines- Example text",
+   "anchor": [
+    0.4171,
+    0.4481
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Urinary bladder- Example text",
+   "anchor": [
+    0.4872,
+    0.4735
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Example header text",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Header",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Liver- Example text",
+   "anchor": [
+    0.4521,
+    0.3454
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Lymph nodes- Example text",
+   "anchor": [
+    0.5389,
+    0.1878
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pancreas- Example text",
+   "anchor": [
+    0.502,
+    0.3594
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Kidneys- Example text",
+   "anchor": [
+    0.422,
+    0.3938
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Skeleton- Example text",
+   "anchor": [
+    0.2836,
+    0.3946
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Muscular- Example text",
+   "anchor": [
+    0.3692,
+    0.249
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pharynx- Example text",
+   "anchor": [
+    0.4769,
+    0.153
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Spleen- Example text",
+   "anchor": [
+    0.5585,
+    0.3256
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Bone marrow- Example text",
+   "anchor": [
+    0.6759,
+    0.3103
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Gallbladder- Example text",
+   "anchor": [
+    0.4355,
+    0.3698
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Veins- Example text",
+   "anchor": [
+    0.701,
+    0.3892
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Stomach- Example text",
+   "anchor": [
+    0.5223,
+    0.3443
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Arteries- Example text",
+   "anchor": [
+    0.3717,
+    0.2264
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Female shadow template.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Female_shadow_template.svg",
+  "author": "Mikael H\u00e4ggstr\u00f6m",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Female shadow template.svg by Mikael H\u00e4ggstr\u00f6m (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: Example header text, Header"
+ ]
+}

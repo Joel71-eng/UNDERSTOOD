@@ -1,0 +1,119 @@
+{
+ "id": "ear__alt2",
+ "title": "human ear",
+ "aliases": [
+  "human ear",
+  "ear",
+  "ear anatomy"
+ ],
+ "size": [
+  1400,
+  1063
+ ],
+ "parts": [
+  {
+   "name": "Incus",
+   "anchor": [
+    0.5525,
+    0.4614
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Malleus",
+   "anchor": [
+    0.5194,
+    0.4506
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Semicircularcanals",
+   "anchor": [
+    0.6953,
+    0.3504
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Vestibularnerve",
+   "anchor": [
+    0.8236,
+    0.4688
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Cochlearnerve",
+   "anchor": [
+    0.835,
+    0.517
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Eustachian tube",
+   "anchor": [
+    0.7413,
+    0.7649
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Tympanicmembrane",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Externalauditory canal",
+   "anchor": [
+    0.5224,
+    0.5778
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Stapes(attached tooval window)",
+   "anchor": [
+    0.6335,
+    0.4979
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Cochlea",
+   "anchor": [
+    0.7471,
+    0.6177
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Roundwindow",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Auricle",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Tympaniccavity",
+   "anchor": [
+    0.6362,
+    0.5686
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Anatomy of the Human Ear.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg",
+  "author": "Lars Chittka; Axel Brockmann",
+  "license": "CC BY 2.5"
+ },
+ "credit": "Diagram: Anatomy of the Human Ear.svg by Lars Chittka; Axel Brockmann (CC BY 2.5), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

@@ -1,0 +1,113 @@
+{
+ "id": "human_heart__alt3",
+ "title": "human heart",
+ "aliases": [
+  "human heart",
+  "heart",
+  "heart anatomy"
+ ],
+ "size": [
+  1400,
+  1400
+ ],
+ "parts": [
+  {
+   "name": "obere Hohlvene",
+   "anchor": [
+    0.5,
+    0.1536
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Aorta",
+   "anchor": [
+    0.5778,
+    0.1081
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Lungen- arterie",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lungen- venen",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "rechte Kammer",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "linke Kammer",
+   "anchor": [
+    0.59,
+    0.5561
+   ],
+   "side": "right"
+  },
+  {
+   "name": "rechter Vorhof",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "linker Vorhof",
+   "anchor": [
+    0.7384,
+    0.4292
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Mitral- klappe",
+   "anchor": [
+    0.678,
+    0.4989
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Aorten- klappe",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Trikuspidal- klappe",
+   "anchor": [
+    0.3435,
+    0.7925
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pulmonal- klappe",
+   "anchor": [
+    0.3038,
+    0.6
+   ],
+   "side": "left"
+  },
+  {
+   "name": "untere Hohlvene",
+   "anchor": null,
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Diagram of the human heart (cropped) de V2.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Diagram_of_the_human_heart_(cropped)_de_V2.svg",
+  "author": "CrazyD",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Diagram of the human heart (cropped) de V2.svg by CrazyD (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: Lungen- arterie, Lungen- venen, rechte Kammer, rechter Vorhof, Aorten- klappe",
+  "anchor on blank background: linke Kammer, Mitral- klappe"
+ ]
+}

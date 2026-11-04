@@ -1,0 +1,78 @@
+{
+ "id": "female_reproductive__alt2",
+ "title": "female reproductive system",
+ "aliases": [
+  "female reproductive system"
+ ],
+ "size": [
+  1400,
+  824
+ ],
+ "parts": [
+  {
+   "name": "size of uterus",
+   "anchor": [
+    -0.1154,
+    0.1445
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Fallopian tubes",
+   "anchor": [
+    0.6721,
+    0.3051
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ovaries",
+   "anchor": [
+    0.65,
+    0.2963
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Uterus",
+   "anchor": [
+    0.4277,
+    0.3416
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Cervix",
+   "anchor": [
+    0.4602,
+    0.5827
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Vagina",
+   "anchor": [
+    0.4647,
+    0.6672
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Vulva",
+   "anchor": [
+    0.4761,
+    0.8926
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Scheme female reproductive system-en.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scheme_female_reproductive_system-en.svg",
+  "author": "CDC, Mysid",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Scheme female reproductive system-en.svg by CDC, Mysid (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

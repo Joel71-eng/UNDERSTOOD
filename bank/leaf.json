@@ -1,0 +1,162 @@
+{
+ "id": "leaf",
+ "title": "leaf",
+ "aliases": [
+  "leaf",
+  "leaf structure",
+  "leaf cross section"
+ ],
+ "size": [
+  1400,
+  1400
+ ],
+ "parts": [
+  {
+   "name": "Xylem vessel",
+   "anchor": [
+    0.1374,
+    0.2575
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Bundle sheath cells",
+   "anchor": [
+    0.289,
+    0.2388
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Wreath anatomy",
+   "anchor": [
+    0.0772,
+    0.1261
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Vascular tissue(xylem and phloem)",
+   "anchor": [
+    0.3797,
+    0.2507
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Phloem",
+   "anchor": [
+    0.1708,
+    0.2848
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Sclerenchyma fibers",
+   "anchor": [
+    0.1602,
+    0.2115
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Mesophyll cells",
+   "anchor": [
+    0.2602,
+    0.2364
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Epidermal cells",
+   "anchor": [
+    0.1817,
+    0.3148
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Vascular tissue (not shown)",
+   "anchor": [
+    0.7723,
+    0.3004
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Mesophyll cell",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Bundle sheath cell",
+   "anchor": [
+    0.6252,
+    0.6955
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Vascular tissue",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Vascular parenchyma cell",
+   "anchor": [
+    0.6552,
+    0.599
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Waxy suberin layer",
+   "anchor": [
+    0.6557,
+    0.6339
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Mesophyll chloroplast",
+   "anchor": [
+    0.3652,
+    0.6192
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Bundle sheath chloroplast",
+   "anchor": [
+    0.4377,
+    0.618
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Dimorphic chloroplasts",
+   "anchor": [
+    0.4521,
+    0.6652
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Plasmodesmata",
+   "anchor": [
+    0.6214,
+    0.6087
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:C4 photosynthesis is less complicated.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:C4_photosynthesis_is_less_complicated.svg",
+  "author": "Kelvinsong",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: C4 photosynthesis is less complicated.svg by Kelvinsong (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

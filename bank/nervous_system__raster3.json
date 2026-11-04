@@ -1,0 +1,342 @@
+{
+ "id": "nervous_system__raster3",
+ "title": "nervous system",
+ "aliases": [
+  "nervous system",
+  "human nervous system"
+ ],
+ "size": [
+  1171,
+  1800
+ ],
+ "parts": [
+  {
+   "name": "spinal cord",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Region of",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "and terminal ganglia",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Associated",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Target organs",
+   "anchor": [
+    0.9334,
+    0.0144
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Edinger-Westphal",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "nucleus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Cranial",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "III",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Ciliary ganglion",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Eye",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Super salivatory",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Cranial",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "VII",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Pterygopalatine",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "nucleus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ganglion",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Submandibular",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lacrimal Gland",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Mucous membrane",
+   "anchor": [
+    0.7319,
+    0.1317
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Inferior salivatory",
+   "anchor": [
+    0.275,
+    0.1367
+   ],
+   "side": "left"
+  },
+  {
+   "name": "nucleus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Cranial",
+   "anchor": [
+    0.5038,
+    0.1933
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ganglion",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Dorsal nucleus",
+   "anchor": [
+    0.2237,
+    0.1639
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Otic ganglion",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Submaxillary gland",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "of the vagus and",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Sublingual gland",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "nucleus ambiguus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Mucous membrane",
+   "anchor": [
+    0.725,
+    0.2089
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Parotid gland",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Heart",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Trachea",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Larynx",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Bronchi",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Esophagus",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Stomach",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Abdominal blood",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "vessels",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Liver and bile duct",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Skin",
+   "anchor": [
+    0.0538,
+    0.5056
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pancreas",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Adrenal gland",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Small intestine",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Large intestine",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Rectum",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Kidney",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Bladder",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Spinal cord",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Coccygeal",
+   "anchor": [
+    0.2408,
+    0.8383
+   ],
+   "side": "left"
+  },
+  {
+   "name": "fused together",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ganglia",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Gonads",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "External genitalia",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Sympathetic fibers",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Parasympathetic fibers",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:1503 Connections of the Parasympathetic Nervous System.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:1503_Connections_of_the_Parasympathetic_Nervous_System.jpg",
+  "author": "OpenStax College",
+  "license": "CC BY 3.0"
+ },
+ "credit": "Diagram: 1503 Connections of the Parasympathetic Nervous System.jpg by OpenStax College (CC BY 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: spinal cord, Region of, and terminal ganglia, Associated, Edinger-Westphal",
+  "anchor on blank background: Target organs, Mucous membrane, Inferior salivatory, Cranial, Mucous membrane",
+  "duplicate label names"
+ ]
+}

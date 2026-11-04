@@ -1,0 +1,156 @@
+{
+ "id": "alveolus__raster3",
+ "title": "alveolus",
+ "aliases": [
+  "alveolus",
+  "alveoli",
+  "gas exchange in the lungs"
+ ],
+ "size": [
+  1500,
+  1650
+ ],
+ "parts": [
+  {
+   "name": "cop",
+   "anchor": [
+    0.8973,
+    0.1309
+   ],
+   "side": "right"
+  },
+  {
+   "name": "saf",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "pdd",
+   "anchor": [
+    0.546,
+    0.1764
+   ],
+   "side": "left"
+  },
+  {
+   "name": "pdv",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "anf",
+   "anchor": [
+    0.7973,
+    0.197
+   ],
+   "side": "right"
+  },
+  {
+   "name": "cop",
+   "anchor": [
+    0.5987,
+    0.2927
+   ],
+   "side": "right"
+  },
+  {
+   "name": "cof",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "pdv",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "cof",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "pdd",
+   "anchor": [
+    0.5967,
+    0.503
+   ],
+   "side": "left"
+  },
+  {
+   "name": "cop",
+   "anchor": [
+    0.8847,
+    0.5133
+   ],
+   "side": "right"
+  },
+  {
+   "name": "saf",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "anf",
+   "anchor": [
+    0.8947,
+    0.6164
+   ],
+   "side": "right"
+  },
+  {
+   "name": "pdv",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "cop",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "cop",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "saf",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Nat",
+   "anchor": [
+    0.608,
+    0.8333
+   ],
+   "side": "right"
+  },
+  {
+   "name": "pdd anf",
+   "anchor": [
+    0.836,
+    0.9485
+   ],
+   "side": "right"
+  },
+  {
+   "name": "pdv",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Ampelognathus holotype.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ampelognathus_holotype.jpg",
+  "author": "R. S. Tykoski, D. L. Contreras & C. Noto",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: Ampelognathus holotype.jpg by R. S. Tykoski, D. L. Contreras & C. Noto (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: saf, pdv, cof, pdv, cof",
+  "anchor on blank background: cop, pdd, anf, cop, pdd",
+  "duplicate label names"
+ ]
+}

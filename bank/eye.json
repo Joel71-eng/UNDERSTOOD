@@ -1,0 +1,175 @@
+{
+ "id": "eye",
+ "title": "human eye",
+ "aliases": [
+  "human eye",
+  "eye",
+  "eye anatomy"
+ ],
+ "size": [
+  1400,
+  1425
+ ],
+ "parts": [
+  {
+   "name": "Pupil",
+   "anchor": [
+    0.4991,
+    0.181
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Iris",
+   "anchor": [
+    0.6128,
+    0.1913
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Posterior chamber",
+   "anchor": [
+    0.371,
+    0.2055
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Lens",
+   "anchor": [
+    0.5289,
+    0.2032
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Cornea",
+   "anchor": [
+    0.45,
+    0.0843
+   ],
+   "side": "left"
+  },
+  {
+   "name": "(aqueous humour)",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Ciliarybody",
+   "anchor": [
+    0.7133,
+    0.2395
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Sclera",
+   "anchor": [
+    0.199,
+    0.3023
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Choroid",
+   "anchor": [
+    0.8315,
+    0.5029
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Retina",
+   "anchor": [
+    0.7222,
+    0.7378
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Suspensoryligamentof lens",
+   "anchor": [
+    0.4804,
+    0.1633
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Optic disc",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Optic nerve",
+   "anchor": [
+    0.3019,
+    0.9353
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Fovea",
+   "anchor": [
+    0.5378,
+    0.8254
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Hyaloidcanal",
+   "anchor": [
+    0.489,
+    0.4227
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Retinalbloodvessels",
+   "anchor": [
+    0.4148,
+    0.743
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Vitreoushumour",
+   "anchor": [
+    0.4234,
+    0.4115
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Uvea",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Macula",
+   "anchor": [
+    0.538,
+    0.7692
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Anterior chamber",
+   "anchor": [
+    0.3965,
+    0.1406
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Schematic diagram of the human eye en.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Schematic_diagram_of_the_human_eye_en.svg",
+  "author": "Rhcastilhos. And Jmarchn .",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Schematic diagram of the human eye en.svg by Rhcastilhos. And Jmarchn . (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

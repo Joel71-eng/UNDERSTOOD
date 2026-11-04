@@ -1,0 +1,450 @@
+{
+ "id": "liver__raster1",
+ "title": "liver",
+ "aliases": [
+  "liver",
+  "human liver"
+ ],
+ "size": [
+  1104,
+  1799
+ ],
+ "parts": [
+  {
+   "name": "BODY-CAVITY",
+   "anchor": [
+    0.6431,
+    0.0589
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Plates",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "and woodcut",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.8107,
+    0.1112
+   ],
+   "side": "right"
+  },
+  {
+   "name": "the membranes between the lung and liver",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the",
+   "anchor": [
+    0.8813,
+    0.1145
+   ],
+   "side": "right"
+  },
+  {
+   "name": "The ligaments of the right side and consequently the corresp",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "fully developed",
+   "anchor": [
+    0.1332,
+    0.1601
+   ],
+   "side": "left"
+  },
+  {
+   "name": "the following genera",
+   "anchor": [
+    0.7283,
+    0.1829
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Lacerta",
+   "anchor": [
+    0.4755,
+    0.1884
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Iguana",
+   "anchor": [
+    0.4194,
+    0.2046
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Gerrhosaurus",
+   "anchor": [
+    0.3605,
+    0.2051
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Goniocephalus",
+   "anchor": [
+    0.4493,
+    0.2379
+   ],
+   "side": "left"
+  },
+  {
+   "name": "attached",
+   "anchor": [
+    0.6168,
+    0.2385
+   ],
+   "side": "right"
+  },
+  {
+   "name": "separate membrane",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the last-named genus the posterior end of the lung",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the ligament between the liver and dorsal",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "The Teiidze",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the only family",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "which",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "have met with the",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "its",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "condition",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "dorsal",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "which the lung of each side",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "with",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "consequent absence of pulmohepatic",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "suspended freely",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "This condition",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "visible",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "which",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "the only",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "representatives of the family that",
+   "anchor": [
+    0.6114,
+    0.413
+   ],
+   "side": "left"
+  },
+  {
+   "name": "have examined",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Tupinambis",
+   "anchor": [
+    0.5063,
+    0.4186
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ameiva",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Callopistes",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "The two types of lung-suspension referred",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "may",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "thus diagram",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "matically represented",
+   "anchor": [
+    0.2065,
+    0.5787
+   ],
+   "side": "left"
+  },
+  {
+   "name": "wel",
+   "anchor": [
+    0.3424,
+    0.5853
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Diagrammatic section of",
+   "anchor": [
+    0.4013,
+    0.6826
+   ],
+   "side": "left"
+  },
+  {
+   "name": "of the lizards included",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "the first list",
+   "anchor": [
+    0.75,
+    0.6481
+   ],
+   "side": "right"
+  },
+  {
+   "name": "given",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "taken through the lungs and",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "similar section of",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "of the",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "mentioned",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "the second",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "pulmohepatic",
+   "anchor": [
+    0.3895,
+    0.7649
+   ],
+   "side": "left"
+  },
+  {
+   "name": "median thoracic septum",
+   "anchor": [
+    0.5525,
+    0.7699
+   ],
+   "side": "left"
+  },
+  {
+   "name": "right and left",
+   "anchor": [
+    0.8841,
+    0.7654
+   ],
+   "side": "right"
+  },
+  {
+   "name": "second set of attachments of the liver frequently met with",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "ventral ligaments that",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "outwards from the",
+   "anchor": [
+    0.8342,
+    0.8388
+   ],
+   "side": "right"
+  },
+  {
+   "name": "the",
+   "anchor": [
+    0.6739,
+    0.8388
+   ],
+   "side": "right"
+  },
+  {
+   "name": "may",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the Salamander all the membranous attachments of the lungs a",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "noted that two similar types",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "among the",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "liver",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "precisely similar",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "those",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "the",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lacertilian type",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "the",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "But",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the Frog the two lungs hang freely suspended",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "either",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:PZSL1889Page465.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:PZSL1889Page465.png",
+  "author": "G.W.Butler (text)",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: PZSL1889Page465.png by G.W.Butler (text) (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Plates, and woodcut, the membranes between the lung and liver, The ligaments of the right side and consequently the corresp, separate membrane",
+  "duplicate label names"
+ ]
+}

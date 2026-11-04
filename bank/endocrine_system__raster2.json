@@ -1,0 +1,89 @@
+{
+ "id": "endocrine_system__raster2",
+ "title": "endocrine system",
+ "aliases": [
+  "endocrine system",
+  "glands"
+ ],
+ "size": [
+  1534,
+  1167
+ ],
+ "parts": [
+  {
+   "name": "Anterior",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Posterior",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Pineal gland",
+   "anchor": [
+    0.811,
+    0.1311
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pituitary gland",
+   "anchor": [
+    0.189,
+    0.168
+   ],
+   "side": "right"
+  },
+  {
+   "name": "hyroid and Parathyroid glands",
+   "anchor": [
+    0.8077,
+    0.2742
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Thymus gland",
+   "anchor": [
+    0.1904,
+    0.3248
+   ],
+   "side": "left"
+  },
+  {
+   "name": "drenal glands",
+   "anchor": [
+    0.1649,
+    0.407
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pancreas",
+   "anchor": [
+    0.8162,
+    0.5013
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Gonads",
+   "anchor": [
+    0.1643,
+    0.6015
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Blausen 0345 EndocrineSystem Female2.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Blausen_0345_EndocrineSystem_Female2.png",
+  "author": "BruceBlaus . When using this image in external sources it can be cited as: Blaus",
+  "license": "CC BY 3.0"
+ },
+ "credit": "Diagram: Blausen 0345 EndocrineSystem Female2.png by BruceBlaus . When using this image in external sources it can be cited as: Blaus (CC BY 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

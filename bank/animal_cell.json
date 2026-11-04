@@ -1,0 +1,99 @@
+{
+ "id": "animal_cell",
+ "title": "animal cell",
+ "aliases": [
+  "animal cell"
+ ],
+ "size": [
+  1400,
+  1481
+ ],
+ "parts": [
+  {
+   "name": "Keratin",
+   "anchor": [
+    0.1689,
+    0.115
+   ],
+   "side": "left"
+  },
+  {
+   "name": "desmoplakin",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "plakoglobins",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "(adhesion protein)",
+   "anchor": [
+    0.5194,
+    0.9418
+   ],
+   "side": "left"
+  },
+  {
+   "name": "(cytoskeletal filaments)",
+   "anchor": [
+    0.2946,
+    0.4515
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Keratin",
+   "anchor": [
+    0.3073,
+    0.5858
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Plasma membrane",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Cadherin",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Extracellular space",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "(cytoskeletal filaments)",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Keratin",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Attachment plaque",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Desmosome cell junction en.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Desmosome_cell_junction_en.svg",
+  "author": "Mariana Ruiz LadyofHats",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Desmosome cell junction en.svg by Mariana Ruiz LadyofHats (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "only 4 labels with a leader line",
+  "no leader line: desmoplakin, plakoglobins, Plasma membrane, Cadherin, Extracellular space",
+  "anchor on blank background: Keratin, (adhesion protein)",
+  "duplicate label names"
+ ]
+}

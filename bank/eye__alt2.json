@@ -1,0 +1,134 @@
+{
+ "id": "eye__alt2",
+ "title": "human eye",
+ "aliases": [
+  "human eye",
+  "eye",
+  "eye anatomy"
+ ],
+ "size": [
+  1400,
+  525
+ ],
+ "parts": [
+  {
+   "name": "Retina",
+   "anchor": [
+    0.2827,
+    0.5164
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Thalamus",
+   "anchor": [
+    0.4691,
+    0.5001
+   ],
+   "side": "left"
+  },
+  {
+   "name": "FEF",
+   "anchor": [
+    0.4233,
+    0.3087
+   ],
+   "side": "left"
+  },
+  {
+   "name": "OculomotorNuclei",
+   "anchor": [
+    0.3255,
+    0.6916
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ocularmuscles",
+   "anchor": [
+    0.2888,
+    0.8056
+   ],
+   "side": "left"
+  },
+  {
+   "name": "FEF",
+   "anchor": [
+    0.7655,
+    0.659
+   ],
+   "side": "right"
+  },
+  {
+   "name": "OculomotorNuclei",
+   "anchor": [
+    0.8037,
+    0.7038
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Ocularmuscles",
+   "anchor": [
+    0.7671,
+    0.8178
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Frontal",
+   "anchor": [
+    0.8389,
+    0.6264
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Parietal",
+   "anchor": [
+    0.9474,
+    0.4472
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Visual",
+   "anchor": [
+    0.9031,
+    0.6386
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Temporal",
+   "anchor": [
+    0.9336,
+    0.5205
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Sensory-driven",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Internally generated",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Feedforward-vs-feedback-driven-eye-movements.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Feedforward-vs-feedback-driven-eye-movements.svg",
+  "author": "Looie496",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Feedforward-vs-feedback-driven-eye-movements.svg by Looie496 (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: Sensory-driven, Internally generated",
+  "anchor on blank background: Retina, Thalamus, FEF, OculomotorNuclei, Ocularmuscles",
+  "duplicate label names"
+ ]
+}

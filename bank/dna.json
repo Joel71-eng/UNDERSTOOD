@@ -1,0 +1,425 @@
+{
+ "id": "dna",
+ "title": "dna",
+ "aliases": [
+  "dna",
+  "dna structure",
+  "double helix"
+ ],
+ "size": [
+  1400,
+  963
+ ],
+ "parts": [
+  {
+   "name": "EJECT",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "DVD-RW",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "DVD-RW",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "USB",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "SATA",
+   "anchor": [
+    0.9357,
+    0.4971
+   ],
+   "side": "right"
+  },
+  {
+   "name": "PHONE",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "MIC",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "LINE-IN",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "AUDIO",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "POWER",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "POWER",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "CARDREADER",
+   "anchor": [
+    0.8981,
+    0.5413
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Num",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lock",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Caps",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lock",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Scroll",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lock",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Num",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lock",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Scroll",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lock",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Scrn",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Print",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "SysRq",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Pause",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Break",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Home",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "End",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Page",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Down",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Page",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Insert",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Delete",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Enter",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "End",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Home",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "PgUp",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "PgDn",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Del",
+   "anchor": [
+    0.8016,
+    0.6844
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Ins",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "F10",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "F11",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "F12",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Esc",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Ctrl",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Ctrl",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Alt",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Caps",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Lock",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Shift",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Shift",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Alt Gr",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Tab",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "LCD-Pro",
+   "anchor": [
+    0.7068,
+    0.4888
+   ],
+   "side": "right"
+  },
+  {
+   "name": "LCD-Pro",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "SELECT",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "MENU",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Capillary gel",
+   "anchor": [
+    0.5996,
+    0.4588
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Laser",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Detector",
+   "anchor": [
+    0.6665,
+    0.48
+   ],
+   "side": "right"
+  },
+  {
+   "name": "GGGGG",
+   "anchor": [
+    0.5466,
+    0.7856
+   ],
+   "side": "right"
+  },
+  {
+   "name": "CCCC",
+   "anchor": [
+    0.5466,
+    0.7856
+   ],
+   "side": "right"
+  },
+  {
+   "name": "TTTTTTT",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Chromatograph",
+   "anchor": [
+    0.6188,
+    0.9111
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Deoxyadenosine triphosphate",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Dideoxyadenosine triphosphate",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Primer",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Template",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ddTTP",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ddCTP",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ddATP",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ddGTP",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ddNTPs",
+   "anchor": null,
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Sanger-sequencing.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sanger-sequencing.svg",
+  "author": "Estevezj",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Sanger-sequencing.svg by Estevezj (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: EJECT, DVD-RW, DVD-RW, USB, PHONE",
+  "anchor on blank background: SATA, Del, LCD-Pro, Capillary gel, GGGGG",
+  "duplicate label names"
+ ]
+}

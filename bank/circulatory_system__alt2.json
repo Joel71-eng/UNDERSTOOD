@@ -1,0 +1,407 @@
+{
+ "id": "circulatory_system__alt2",
+ "title": "circulatory system",
+ "aliases": [
+  "circulatory system",
+  "blood circulation"
+ ],
+ "size": [
+  1400,
+  2113
+ ],
+ "parts": [
+  {
+   "name": "Subclavian a. and v.",
+   "anchor": [
+    0.4498,
+    0.2162
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Cephalic v.",
+   "anchor": [
+    0.5206,
+    0.3146
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Axillary a. and v.",
+   "anchor": [
+    0.4089,
+    0.2412
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Superior vena cava",
+   "anchor": [
+    0.5214,
+    0.2595
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Inferior vena cava",
+   "anchor": [
+    0.3001,
+    0.2195
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Brachial a. and v.",
+   "anchor": [
+    0.36,
+    0.3498
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Basilic v.",
+   "anchor": [
+    0.2504,
+    0.3612
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Median cubital v.",
+   "anchor": [
+    0.3269,
+    0.3961
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ulnar a.",
+   "anchor": [
+    0.3189,
+    0.4712
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Radial a.",
+   "anchor": [
+    0.2733,
+    0.4741
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Palmar digital v.",
+   "anchor": [
+    0.2527,
+    0.5671
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Digital a.",
+   "anchor": [
+    0.223,
+    0.5624
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Hepatic v.",
+   "anchor": [
+    0.5228,
+    0.3284
+   ],
+   "side": "left"
+  },
+  {
+   "name": "(Hepatic) portal v.",
+   "anchor": [
+    0.5287,
+    0.3725
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Arcuate a.",
+   "anchor": [
+    0.4627,
+    0.9415
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Dorsal digital a.",
+   "anchor": [
+    0.426,
+    0.9568
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Venous sinuses",
+   "anchor": [
+    0.5905,
+    0.0824
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Aorta",
+   "anchor": [
+    0.5563,
+    0.238
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Descending aorta",
+   "anchor": [
+    0.5663,
+    0.3225
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Basilar a.",
+   "anchor": [
+    0.5414,
+    0.0919
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Internal carotid a.",
+   "anchor": [
+    0.5627,
+    0.1115
+   ],
+   "side": "right"
+  },
+  {
+   "name": "External carotid a.",
+   "anchor": [
+    0.5794,
+    0.1244
+   ],
+   "side": "right"
+  },
+  {
+   "name": "External jugular v.",
+   "anchor": [
+    0.5784,
+    0.1495
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Internal jugular v.",
+   "anchor": [
+    0.5722,
+    0.168
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Vertebral a.",
+   "anchor": [
+    0.5519,
+    0.1776
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Common carotid a.",
+   "anchor": [
+    0.5632,
+    0.1982
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pulmonary a. and v.",
+   "anchor": [
+    0.587,
+    0.2557
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Heart",
+   "anchor": [
+    0.5917,
+    0.2883
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Celiac trunk",
+   "anchor": [
+    0.5616,
+    0.3432
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Renal a. and v.",
+   "anchor": [
+    0.5164,
+    0.4019
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Common iliac a. and v.",
+   "anchor": [
+    0.5672,
+    0.4701
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Internal iliac a. and v.",
+   "anchor": [
+    0.5342,
+    0.4865
+   ],
+   "side": "right"
+  },
+  {
+   "name": "External iliac a. and v.",
+   "anchor": [
+    0.5808,
+    0.4958
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Great saphenous v.",
+   "anchor": [
+    0.5543,
+    0.7532
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Femoral a. and v.",
+   "anchor": [
+    0.5983,
+    0.6069
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Popliteal a. and v.",
+   "anchor": [
+    0.5913,
+    0.7015
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Small saphenous v.",
+   "anchor": [
+    0.5841,
+    0.7789
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Posterior tibial a. and v.",
+   "anchor": [
+    0.5706,
+    0.8214
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Dorsal venous arch",
+   "anchor": [
+    0.6357,
+    0.9314
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Dorsal digital vein",
+   "anchor": [
+    0.6549,
+    0.9551
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Anterior tibial a. and v.",
+   "anchor": [
+    0.5906,
+    0.8036
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Peroneal a. and v.",
+   "anchor": [
+    0.5922,
+    0.8439
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Deep femoral a. and v.",
+   "anchor": [
+    0.6089,
+    0.5865
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Gonadal a. and v.",
+   "anchor": [
+    0.5803,
+    0.4536
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Superior mesenteric a. and v.",
+   "anchor": [
+    0.5551,
+    0.3955
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Coronary a. and v.",
+   "anchor": [
+    0.5786,
+    0.3017
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Splenic a. and v.",
+   "anchor": [
+    0.5921,
+    0.3583
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Common femoral a. and v.",
+   "anchor": [
+    0.5968,
+    0.5208
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Circulatory System en.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Circulatory_System_en.svg",
+  "author": "LadyofHats , Mariana Ruiz Villarreal",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Circulatory System en.svg by LadyofHats , Mariana Ruiz Villarreal (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

@@ -1,0 +1,55 @@
+{
+ "id": "bone__raster3",
+ "title": "bone structure",
+ "aliases": [
+  "bone structure",
+  "long bone"
+ ],
+ "size": [
+  1800,
+  1034
+ ],
+ "parts": [
+  {
+   "name": "Cellules bordantes",
+   "anchor": [
+    0.3367,
+    0.5967
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Macrophage",
+   "anchor": [
+    0.9994,
+    0.1151
+   ],
+   "side": "left"
+  },
+  {
+   "name": "nouvellement",
+   "anchor": [
+    0.8406,
+    0.7253
+   ],
+   "side": "right"
+  },
+  {
+   "name": "vieux",
+   "anchor": [
+    0.9994,
+    0.9662
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Bone regeneration - Bone remodeling cycle 1 - Endosteal Sinus Monocyte Pre-osteoclast etc -- Smart-Servier.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bone_regeneration_-_Bone_remodeling_cycle_1_-_Endosteal_Sinus_Monocyte_Pre-osteoclast_etc_--_Smart-Servier.png",
+  "author": "Laboratoires Servier",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Bone regeneration - Bone remodeling cycle 1 - Endosteal Sinus Monocyte Pre-osteoclast etc -- Smart-Servier.png by Laboratoires Servier (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

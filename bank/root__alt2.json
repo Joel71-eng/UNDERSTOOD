@@ -1,0 +1,123 @@
+{
+ "id": "root__alt2",
+ "title": "root",
+ "aliases": [
+  "root",
+  "root structure"
+ ],
+ "size": [
+  1400,
+  765
+ ],
+ "parts": [
+  {
+   "name": "Dimension",
+   "anchor": [
+    0.3938,
+    0.0172
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Rank",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "DetCM",
+   "anchor": [
+    0.0622,
+    0.0172
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Positive",
+   "anchor": [
+    0.0622,
+    0.0172
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Roots",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Coxeter",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "CartanMatrix",
+   "anchor": [
+    0.3938,
+    0.0172
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Root",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Weights",
+   "anchor": [
+    0.0622,
+    0.0172
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Positive",
+   "anchor": [
+    0.0622,
+    0.0172
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Root",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Vectors",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Heights",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Hasse",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Visualization",
+   "anchor": [
+    0.9373,
+    0.1801
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:E6Hasse.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:E6Hasse.svg",
+  "author": "Jgmoxness",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: E6Hasse.svg by Jgmoxness (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: Rank, Roots, Coxeter, Root, Root",
+  "anchor on blank background: Dimension, DetCM, Positive, CartanMatrix, Weights",
+  "duplicate label names"
+ ]
+}

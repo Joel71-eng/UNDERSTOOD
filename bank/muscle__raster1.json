@@ -1,0 +1,498 @@
+{
+ "id": "muscle__raster1",
+ "title": "muscle",
+ "aliases": [
+  "muscle",
+  "skeletal muscle"
+ ],
+ "size": [
+  773,
+  1799
+ ],
+ "parts": [
+  {
+   "name": "Sternocleidomastoid",
+   "anchor": [
+    0.4502,
+    0.0695
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Occipitofrontalis",
+   "anchor": [
+    0.4567,
+    0.0261
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Trapezius",
+   "anchor": [
+    0.5252,
+    0.0756
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pectoralis major",
+   "anchor": [
+    0.4398,
+    0.1167
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pectoralis minor",
+   "anchor": [
+    0.5382,
+    0.1039
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Rectus abdominis",
+   "anchor": [
+    0.4463,
+    0.1556
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Serratus anterior",
+   "anchor": [
+    0.5757,
+    0.1284
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Abdominal",
+   "anchor": [
+    0.4036,
+    0.1745
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Biceps brachii",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Brachialis",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "external oblique",
+   "anchor": [
+    0.3389,
+    0.1656
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pectineus",
+   "anchor": [
+    0.4373,
+    0.2173
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pronator",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Adductor",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Flexor carpi radialis",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "longus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "fasciae latae",
+   "anchor": [
+    0.5265,
+    0.2135
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Sartorius",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "lliopsoas",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Rectus femoris",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Gracilis",
+   "anchor": [
+    0.4618,
+    0.2368
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Vastus lateralis",
+   "anchor": [
+    0.4036,
+    0.2807
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Vastus medialis",
+   "anchor": [
+    0.4929,
+    0.284
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Soleus and",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Fibularis longus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "gastrocnemius",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Tibialis anterior",
+   "anchor": [
+    0.4204,
+    0.3419
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Major muscles of the",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Right",
+   "anchor": [
+    0.5382,
+    0.4603
+   ],
+   "side": "left"
+  },
+  {
+   "name": "deep",
+   "anchor": [
+    0.5847,
+    0.4714
+   ],
+   "side": "left"
+  },
+  {
+   "name": "left",
+   "anchor": [
+    0.3687,
+    0.4564
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Occipitofrontalis",
+   "anchor": [
+    0.4994,
+    0.5581
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Epicranial aponeurosis",
+   "anchor": [
+    0.4838,
+    0.5375
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Splenius capitis",
+   "anchor": [
+    0.4541,
+    0.5798
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Levator scapulae",
+   "anchor": [
+    0.3933,
+    0.6103
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Rhomboids",
+   "anchor": [
+    0.4605,
+    0.6059
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Teres minor",
+   "anchor": [
+    0.3596,
+    0.6242
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Supraspinatus",
+   "anchor": [
+    0.3376,
+    0.6042
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Trapezius",
+   "anchor": [
+    0.5252,
+    0.607
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Infraspinatus",
+   "anchor": [
+    0.304,
+    0.6281
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Deltoid",
+   "anchor": [
+    0.5886,
+    0.6203
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Teres major",
+   "anchor": [
+    0.3881,
+    0.6437
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Latissimus dorsi",
+   "anchor": [
+    0.5071,
+    0.6759
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Triceps brachii",
+   "anchor": [
+    0.3506,
+    0.6576
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Brachioradialis",
+   "anchor": [
+    0.6145,
+    0.6804
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Extensor carpi radialis",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Serratus posterior",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "inferior",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Extensor digitorum",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "External oblique",
+   "anchor": [
+    0.4308,
+    0.6876
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Extensor carpi ulnaris",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Gluteus medius",
+   "anchor": [
+    0.3984,
+    0.7143
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Flexor carpi ulnaris",
+   "anchor": [
+    0.6106,
+    0.7154
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Gluteus maximus",
+   "anchor": [
+    0.4373,
+    0.7265
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Gluteus minimus",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Gemellus muscles",
+   "anchor": [
+    0.5278,
+    0.736
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Semimembranosus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Semitendinosus",
+   "anchor": [
+    0.5058,
+    0.7738
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Biceps femoris",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Peroneus longus",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Gracilis",
+   "anchor": [
+    0.4592,
+    0.7704
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Gastrocnemius",
+   "anchor": [
+    0.9612,
+    0.8399
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Tibialis posterior",
+   "anchor": [
+    0.4295,
+    0.8471
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Soleus",
+   "anchor": [
+    0.5188,
+    0.851
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Major muscles of the",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Right",
+   "anchor": [
+    0.5382,
+    0.9783
+   ],
+   "side": "left"
+  },
+  {
+   "name": "deep",
+   "anchor": [
+    0.5912,
+    0.9889
+   ],
+   "side": "left"
+  },
+  {
+   "name": "left",
+   "anchor": [
+    0.3687,
+    0.9789
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:1105 Anterior and Posterior Views of Muscles.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:1105_Anterior_and_Posterior_Views_of_Muscles.jpg",
+  "author": "OpenStax",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: 1105 Anterior and Posterior Views of Muscles.jpg by OpenStax (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

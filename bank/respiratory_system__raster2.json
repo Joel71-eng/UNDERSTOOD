@@ -1,0 +1,169 @@
+{
+ "id": "respiratory_system__raster2",
+ "title": "respiratory system",
+ "aliases": [
+  "respiratory system",
+  "lungs",
+  "human lungs"
+ ],
+ "size": [
+  1100,
+  819
+ ],
+ "parts": [
+  {
+   "name": "coga",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Sinusa",
+   "anchor": [
+    0.6173,
+    0.2393
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Sinusa",
+   "anchor": [
+    0.4536,
+    0.3236
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Konka",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "ajor",
+   "anchor": [
+    0.5436,
+    0.2979
+   ],
+   "side": "right"
+  },
+  {
+   "name": "anavin",
+   "anchor": [
+    0.6355,
+    0.3724
+   ],
+   "side": "right"
+  },
+  {
+   "name": "hundirin",
+   "anchor": [
+    0.4645,
+    0.3675
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Coga ostaki",
+   "anchor": [
+    0.28,
+    0.3822
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Gewriya difini",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Hewa",
+   "anchor": [
+    0.5736,
+    0.4591
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Gewriya",
+   "anchor": [
+    0.2309,
+    0.6325
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Nermika",
+   "anchor": [
+    0.48,
+    0.4628
+   ],
+   "side": "right"
+  },
+  {
+   "name": "dev",
+   "anchor": [
+    0.9009,
+    0.5299
+   ],
+   "side": "right"
+  },
+  {
+   "name": "dev",
+   "anchor": [
+    0.7255,
+    0.6447
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Qirrik",
+   "anchor": [
+    0.4073,
+    0.768
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Soricik",
+   "anchor": [
+    0.3727,
+    0.7741
+   ],
+   "side": "left"
+  },
+  {
+   "name": "kirkiragi",
+   "anchor": [
+    0.6155,
+    0.7753
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Borrihewa",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Adem",
+   "anchor": [
+    0.5555,
+    0.8657
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Blausen 0872 UpperRespiratorySystem ku.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Blausen_0872_UpperRespiratorySystem_ku.png",
+  "author": "BruceBlaus . When using this image in external sources it can be cited as: Blaus",
+  "license": "CC BY 3.0"
+ },
+ "credit": "Diagram: Blausen 0872 UpperRespiratorySystem ku.png by BruceBlaus . When using this image in external sources it can be cited as: Blaus (CC BY 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: coga, Konka, Gewriya difini, Borrihewa",
+  "anchor on blank background: Coga ostaki, Gewriya, dev, dev, kirkiragi",
+  "duplicate label names"
+ ]
+}

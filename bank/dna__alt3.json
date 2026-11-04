@@ -1,0 +1,95 @@
+{
+ "id": "dna__alt3",
+ "title": "dna",
+ "aliases": [
+  "dna",
+  "dna structure",
+  "double helix"
+ ],
+ "size": [
+  1400,
+  1139
+ ],
+ "parts": [
+  {
+   "name": "Kapsula",
+   "anchor": [
+    0.6398,
+    0.2816
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Zelula-pareta",
+   "anchor": [
+    0.6366,
+    0.3285
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Mintz plasmatikoa",
+   "anchor": [
+    0.6352,
+    0.38
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Zitoplasma",
+   "anchor": [
+    0.4829,
+    0.4256
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Erribosomak",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Plasmidoa",
+   "anchor": [
+    0.3162,
+    0.5248
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pilumak",
+   "anchor": [
+    0.1916,
+    0.4494
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Flageloa",
+   "anchor": [
+    0.6636,
+    0.7661
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Nukleoideoa",
+   "anchor": [
+    0.4151,
+    0.5794
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Zelula prokarioto tipikoa.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Zelula_prokarioto_tipikoa.svg",
+  "author": "derivative work: Theklan / Average prokaryote cell- en.svg : Mariana Ruiz Villar",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Zelula prokarioto tipikoa.svg by derivative work: Theklan / Average prokaryote cell- en.svg : Mariana Ruiz Villar (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: Erribosomak"
+ ]
+}

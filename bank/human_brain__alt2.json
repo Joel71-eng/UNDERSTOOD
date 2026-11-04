@@ -1,0 +1,96 @@
+{
+ "id": "human_brain__alt2",
+ "title": "human brain",
+ "aliases": [
+  "human brain",
+  "brain",
+  "brain anatomy"
+ ],
+ "size": [
+  1400,
+  906
+ ],
+ "parts": [
+  {
+   "name": "somatomotor cortex",
+   "anchor": [
+    0.5184,
+    0.2252
+   ],
+   "side": "left"
+  },
+  {
+   "name": "somatosensory cortex",
+   "anchor": [
+    0.5706,
+    0.2188
+   ],
+   "side": "right"
+  },
+  {
+   "name": "parietal lobe",
+   "anchor": [
+    0.6503,
+    0.291
+   ],
+   "side": "right"
+  },
+  {
+   "name": "occipital lobe",
+   "anchor": [
+    0.6928,
+    0.3823
+   ],
+   "side": "right"
+  },
+  {
+   "name": "cerebellum",
+   "anchor": [
+    0.7066,
+    0.6391
+   ],
+   "side": "right"
+  },
+  {
+   "name": "spinal cord",
+   "anchor": [
+    0.6145,
+    0.8939
+   ],
+   "side": "right"
+  },
+  {
+   "name": "medulla oblongata",
+   "anchor": [
+    0.539,
+    0.8026
+   ],
+   "side": "left"
+  },
+  {
+   "name": "temporal lobe",
+   "anchor": [
+    0.3962,
+    0.6455
+   ],
+   "side": "left"
+  },
+  {
+   "name": "frontal lobe",
+   "anchor": [
+    0.2986,
+    0.3589
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Cerebrum lobes.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cerebrum_lobes.svg",
+  "author": "vectorized by Jkwchui",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Cerebrum lobes.svg by vectorized by Jkwchui (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

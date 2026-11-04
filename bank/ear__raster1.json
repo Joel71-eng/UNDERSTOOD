@@ -1,0 +1,173 @@
+{
+ "id": "ear__raster1",
+ "title": "human ear",
+ "aliases": [
+  "human ear",
+  "ear",
+  "ear anatomy"
+ ],
+ "size": [
+  1100,
+  928
+ ],
+ "parts": [
+  {
+   "name": "Estribo",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ventana",
+   "anchor": [
+    0.5873,
+    0.4795
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Canales",
+   "anchor": [
+    0.6955,
+    0.2716
+   ],
+   "side": "right"
+  },
+  {
+   "name": "semicirculares",
+   "anchor": [
+    0.6573,
+    0.3039
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Yunque",
+   "anchor": [
+    0.4691,
+    0.3578
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Martillo",
+   "anchor": [
+    0.3764,
+    0.3459
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Nervio",
+   "anchor": [
+    0.6982,
+    0.3631
+   ],
+   "side": "right"
+  },
+  {
+   "name": "vestibular",
+   "anchor": [
+    0.6364,
+    0.3653
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Nervio",
+   "anchor": [
+    0.8218,
+    0.4925
+   ],
+   "side": "right"
+  },
+  {
+   "name": "cloclear",
+   "anchor": [
+    0.8055,
+    0.4709
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Canal auditvo",
+   "anchor": [
+    0.4091,
+    0.6638
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Cavidad",
+   "anchor": [
+    0.5227,
+    0.6196
+   ],
+   "side": "left"
+  },
+  {
+   "name": "timpanica",
+   "anchor": [
+    0.58,
+    0.9192
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Membrana",
+   "anchor": [
+    0.4536,
+    0.5312
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Trompa",
+   "anchor": [
+    0.7055,
+    0.7241
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Eustaquio",
+   "anchor": [
+    0.7618,
+    0.7769
+   ],
+   "side": "right"
+  },
+  {
+   "name": "timpanica",
+   "anchor": [
+    0.3773,
+    0.6519
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ventana",
+   "anchor": [
+    0.5945,
+    0.5388
+   ],
+   "side": "right"
+  },
+  {
+   "name": "circular",
+   "anchor": [
+    0.5855,
+    0.7856
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Anatomy of the Human Ear.es.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Anatomy_of_the_Human_Ear.es.png",
+  "author": "Anatomy_of_the_Human_Ear.svg : Chittka L, Brockmann derivative work: Ortisa ( ta",
+  "license": "CC BY 2.5"
+ },
+ "credit": "Diagram: Anatomy of the Human Ear.es.png by Anatomy_of_the_Human_Ear.svg : Chittka L, Brockmann derivative work: Ortisa ( ta (CC BY 2.5), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

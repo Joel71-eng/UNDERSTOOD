@@ -1,0 +1,182 @@
+{
+ "id": "male_reproductive__raster1",
+ "title": "male reproductive system",
+ "aliases": [
+  "male reproductive system"
+ ],
+ "size": [
+  1800,
+  1021
+ ],
+ "parts": [
+  {
+   "name": "Testis",
+   "anchor": [
+    0.1717,
+    0.0607
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Epididymis",
+   "anchor": [
+    0.2183,
+    0.1058
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ductus deferens",
+   "anchor": [
+    0.2561,
+    0.1773
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Colon",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Prostata",
+   "anchor": [
+    0.2311,
+    0.2351
+   ],
+   "side": "left"
+  },
+  {
+   "name": "sigmoideum",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Glandula vesiculosa",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Ductus ejaculatorius",
+   "anchor": [
+    0.2556,
+    0.3957
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Rectum",
+   "anchor": [
+    0.8511,
+    0.4221
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Glandula bulbourethralis",
+   "anchor": [
+    0.3083,
+    0.4829
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Vesica urinaria",
+   "anchor": [
+    0.2322,
+    0.5005
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Anus",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Urethra",
+   "anchor": [
+    0.1911,
+    0.6562
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Corpus spongiosum glandis",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "TINO",
+   "anchor": [
+    0.055,
+    0.764
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Symphysis",
+   "anchor": [
+    0.9294,
+    0.8129
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Corpus spongiosum penis",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "TINO",
+   "anchor": [
+    0.06,
+    0.8521
+   ],
+   "side": "left"
+  },
+  {
+   "name": "sacrum",
+   "anchor": [
+    0.9394,
+    0.856
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Corpus cavernosum penis",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "coccygis",
+   "anchor": [
+    0.9556,
+    0.8991
+   ],
+   "side": "right"
+  },
+  {
+   "name": "TINO CTaTeBoro",
+   "anchor": [
+    0.0572,
+    0.9559
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Male anatomy - Ukraine.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Male_anatomy_-_Ukraine.png",
+  "author": "Tsaitgaist and Sciencia58",
+  "license": "CC BY-SA 4.0"
+ },
+ "credit": "Diagram: Male anatomy - Ukraine.png by Tsaitgaist and Sciencia58 (CC BY-SA 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Colon, sigmoideum, Glandula vesiculosa, Anus, Corpus spongiosum glandis",
+  "anchor on blank background: Testis, Epididymis, Ductus deferens, Prostata, Ductus ejaculatorius",
+  "duplicate label names"
+ ]
+}

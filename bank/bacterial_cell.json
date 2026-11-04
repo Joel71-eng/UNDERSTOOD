@@ -1,0 +1,88 @@
+{
+ "id": "bacterial_cell",
+ "title": "bacterial cell",
+ "aliases": [
+  "bacterial cell",
+  "bacterium",
+  "prokaryotic cell"
+ ],
+ "size": [
+  1400,
+  983
+ ],
+ "parts": [
+  {
+   "name": "Flagel",
+   "anchor": [
+    0.8415,
+    0.1884
+   ],
+   "side": "right"
+  },
+  {
+   "name": "capsule of slijmlaagcelwandcelmembraan",
+   "anchor": [
+    0.5788,
+    0.6444
+   ],
+   "side": "right"
+  },
+  {
+   "name": "cytoplasma",
+   "anchor": [
+    0.4042,
+    0.6959
+   ],
+   "side": "left"
+  },
+  {
+   "name": "insluiting",
+   "anchor": [
+    0.316,
+    0.7436
+   ],
+   "side": "left"
+  },
+  {
+   "name": "pilus",
+   "anchor": [
+    0.726,
+    0.1972
+   ],
+   "side": "right"
+  },
+  {
+   "name": "chromosoom",
+   "anchor": [
+    0.5364,
+    0.3329
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ribosoom",
+   "anchor": [
+    0.3363,
+    0.4246
+   ],
+   "side": "left"
+  },
+  {
+   "name": "plasmide",
+   "anchor": [
+    0.2217,
+    0.6795
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Bacteria-.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bacteria-.svg",
+  "author": "JrPol",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Bacteria-.svg by JrPol (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

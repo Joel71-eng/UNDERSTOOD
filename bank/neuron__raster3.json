@@ -1,0 +1,100 @@
+{
+ "id": "neuron__raster3",
+ "title": "neuron",
+ "aliases": [
+  "neuron",
+  "nerve cell"
+ ],
+ "size": [
+  1100,
+  837
+ ],
+ "parts": [
+  {
+   "name": "Xaneya",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "demarekoendama navend",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Tewere",
+   "anchor": [
+    0.5309,
+    0.411
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Parzina",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Gehinkeya demari",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Dendrit",
+   "anchor": [
+    0.2791,
+    0.4432
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Navik",
+   "anchor": [
+    0.4027,
+    0.356
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ranvier",
+   "anchor": [
+    0.7582,
+    0.4648
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Tamika",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "maylini",
+   "anchor": [
+    0.8336,
+    0.681
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Xaneya pasgehinke",
+   "anchor": [
+    0.7164,
+    0.902
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Demarexane ku.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Demarexane_ku.png",
+  "author": "https://openstax.org .",
+  "license": "CC BY 3.0"
+ },
+ "credit": "Diagram: Demarexane ku.png by https://openstax.org . (CC BY 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Xaneya, demarekoendama navend, Parzina, Gehinkeya demari, Tamika",
+  "anchor on blank background: Dendrit, Xaneya pasgehinke"
+ ]
+}

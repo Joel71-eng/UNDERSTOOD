@@ -1,0 +1,285 @@
+{
+ "id": "mitochondrion__raster1",
+ "title": "mitochondrion",
+ "aliases": [
+  "mitochondrion",
+  "mitochondria"
+ ],
+ "size": [
+  1100,
+  820
+ ],
+ "parts": [
+  {
+   "name": "L-Leucine",
+   "anchor": [
+    0.3591,
+    0.1902
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Branched-chain amino",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Alanine",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "acid aminotransferase",
+   "anchor": [
+    0.3591,
+    0.0512
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pyruvate",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "a-Ketoisocaproate",
+   "anchor": [
+    0.7709,
+    0.1878
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Glutamate",
+   "anchor": [
+    0.4336,
+    0.1878
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Branched-chain a-ketoacid",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "a-Ketoisocaproate",
+   "anchor": [
+    0.2373,
+    0.4476
+   ],
+   "side": "left"
+  },
+  {
+   "name": "dehydrogenase",
+   "anchor": [
+    0.7655,
+    0.3049
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Isovaleryl CoA",
+   "anchor": [
+    0.4891,
+    0.3073
+   ],
+   "side": "right"
+  },
+  {
+   "name": "KIC-dioxygenase",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "dehydrogenase",
+   "anchor": [
+    0.8527,
+    0.4671
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Excreted",
+   "anchor": [
+    0.1391,
+    0.5085
+   ],
+   "side": "left"
+  },
+  {
+   "name": "B-Hydroxy",
+   "anchor": [
+    0.3545,
+    0.3341
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Enoyl-CoA hydratase",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "urine",
+   "anchor": [
+    0.4091,
+    0.5122
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Unknown",
+   "anchor": [
+    0.4464,
+    0.6098
+   ],
+   "side": "left"
+  },
+  {
+   "name": "MC-CoA",
+   "anchor": [
+    0.8518,
+    0.6122
+   ],
+   "side": "right"
+  },
+  {
+   "name": "enzyme",
+   "anchor": [
+    0.4445,
+    0.5329
+   ],
+   "side": "left"
+  },
+  {
+   "name": "MG-CoA",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "carboxylase",
+   "anchor": [
+    0.8518,
+    0.5427
+   ],
+   "side": "right"
+  },
+  {
+   "name": "B-Hydroxy B-methylglutaryl-CoA",
+   "anchor": [
+    0.6027,
+    0.9024
+   ],
+   "side": "left"
+  },
+  {
+   "name": "HMG-CoA",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "reductase",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "lyase",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "HMG-CoA",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Mevalonate",
+   "anchor": [
+    0.3155,
+    0.6646
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Acetoacetate",
+   "anchor": [
+    0.4518,
+    0.6732
+   ],
+   "side": "left"
+  },
+  {
+   "name": "synthase",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Mevalonate",
+   "anchor": [
+    0.1127,
+    0.9622
+   ],
+   "side": "left"
+  },
+  {
+   "name": "pathway",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "dehydrogenase",
+   "anchor": [
+    0.4973,
+    0.9085
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Acetyl-CoA",
+   "anchor": [
+    0.4191,
+    0.6561
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Acetoacetyl-CoA",
+   "anchor": [
+    0.5627,
+    0.6634
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Cholesterol",
+   "anchor": [
+    0.1155,
+    0.8927
+   ],
+   "side": "left"
+  },
+  {
+   "name": "B-Hydroxybutyrate",
+   "anchor": [
+    0.3245,
+    0.872
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:HMB biosynthesis and metabolism diagram.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HMB_biosynthesis_and_metabolism_diagram.png",
+  "author": "Seppi 333",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: HMB biosynthesis and metabolism diagram.png by Seppi 333 (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Branched-chain amino, Alanine, Pyruvate, Branched-chain a-ketoacid, KIC-dioxygenase",
+  "anchor on blank background: L-Leucine, acid aminotransferase, a-Ketoisocaproate, Glutamate, a-Ketoisocaproate",
+  "duplicate label names"
+ ]
+}

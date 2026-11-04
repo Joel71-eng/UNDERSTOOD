@@ -1,0 +1,407 @@
+{
+ "id": "tooth",
+ "title": "tooth",
+ "aliases": [
+  "tooth",
+  "human tooth"
+ ],
+ "size": [
+  1400,
+  648
+ ],
+ "parts": [
+  {
+   "name": "The tooth as it is",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "nothing removed",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Inlay",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "no cusp covered",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Onlay",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "one cusp covered, the lingual",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Overlay",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "every cusp covered",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "All-ceramic crown",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "buccal",
+   "anchor": [
+    0.1111,
+    0.6499
+   ],
+   "side": "left"
+  },
+  {
+   "name": "lingual",
+   "anchor": [
+    0.1116,
+    0.6502
+   ],
+   "side": "left"
+  },
+  {
+   "name": "mes",
+   "anchor": [
+    0.1327,
+    0.6469
+   ],
+   "side": "left"
+  },
+  {
+   "name": "dist",
+   "anchor": [
+    0.1256,
+    0.6017
+   ],
+   "side": "left"
+  },
+  {
+   "name": "buccal",
+   "anchor": [
+    0.3043,
+    0.6499
+   ],
+   "side": "left"
+  },
+  {
+   "name": "lingual",
+   "anchor": [
+    0.3048,
+    0.6502
+   ],
+   "side": "left"
+  },
+  {
+   "name": "mes",
+   "anchor": [
+    0.3259,
+    0.6469
+   ],
+   "side": "left"
+  },
+  {
+   "name": "dist",
+   "anchor": [
+    0.3188,
+    0.6017
+   ],
+   "side": "left"
+  },
+  {
+   "name": "buccal",
+   "anchor": [
+    0.4974,
+    0.6499
+   ],
+   "side": "right"
+  },
+  {
+   "name": "lingual",
+   "anchor": [
+    0.498,
+    0.6502
+   ],
+   "side": "right"
+  },
+  {
+   "name": "mes",
+   "anchor": [
+    0.519,
+    0.6469
+   ],
+   "side": "left"
+  },
+  {
+   "name": "dist",
+   "anchor": [
+    0.512,
+    0.6017
+   ],
+   "side": "right"
+  },
+  {
+   "name": "buccal",
+   "anchor": [
+    0.6906,
+    0.6499
+   ],
+   "side": "right"
+  },
+  {
+   "name": "lingual",
+   "anchor": [
+    0.6911,
+    0.6502
+   ],
+   "side": "right"
+  },
+  {
+   "name": "mes",
+   "anchor": [
+    0.7122,
+    0.6469
+   ],
+   "side": "right"
+  },
+  {
+   "name": "dist",
+   "anchor": [
+    0.7052,
+    0.6017
+   ],
+   "side": "right"
+  },
+  {
+   "name": "buccal",
+   "anchor": [
+    0.8838,
+    0.6499
+   ],
+   "side": "right"
+  },
+  {
+   "name": "lingual",
+   "anchor": [
+    0.8843,
+    0.6502
+   ],
+   "side": "right"
+  },
+  {
+   "name": "mes",
+   "anchor": [
+    0.9054,
+    0.6469
+   ],
+   "side": "right"
+  },
+  {
+   "name": "dist",
+   "anchor": [
+    0.8984,
+    0.6017
+   ],
+   "side": "right"
+  },
+  {
+   "name": "All of its enamel",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "the walls carry most of it",
+   "anchor": [
+    0.0466,
+    0.8123
+   ],
+   "side": "left"
+  },
+  {
+   "name": "No restoration.",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Every panel to the right is",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "measured against this one.",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "90% left",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "both cusps and both walls intact",
+   "anchor": [
+    0.2398,
+    0.8123
+   ],
+   "side": "left"
+  },
+  {
+   "name": "When the damage sits between the cusps",
+   "anchor": [
+    0.567,
+    0.8123
+   ],
+   "side": "left"
+  },
+  {
+   "name": "and both cusps are still sound.",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "It fills the middle and leaves the cusps",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "and the walls carrying load as before.",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "63% left",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "buccal cusp and both walls intact",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "When one cusp is cracked, undermined or",
+   "anchor": [
+    0.7602,
+    0.8123
+   ],
+   "side": "right"
+  },
+  {
+   "name": "It caps the cusp at risk and leaves the",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "other cusp, and both walls, standing.",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "38% left",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "walls intact below the margins",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "When every cusp is compromised, or the",
+   "anchor": [
+    0.9534,
+    0.8123
+   ],
+   "side": "right"
+  },
+  {
+   "name": "biting surface has been lost to wear",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "or erosion.",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "It rebuilds the whole occlusal surface",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "and still leaves the walls.",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "under 1% left",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "the walls are gone",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Most often to replace a crown that is",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "already there: that tooth was prepared",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "years ago, so little more is lost.",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "is narrower than it used to be. Partial",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "coverage, meaning onlays and overlays,",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "survived 91% at ten years across 2,154",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "bonded restorations.",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Inlay onlay overlay and crown preparation comparison.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Inlay_onlay_overlay_and_crown_preparation_comparison.svg",
+  "author": "Khalid Aletaibi",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: Inlay onlay overlay and crown preparation comparison.svg by Khalid Aletaibi (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: The tooth as it is, nothing removed, Inlay, no cusp covered, Onlay",
+  "anchor on blank background: dist, dist, dist, dist, dist",
+  "duplicate label names"
+ ]
+}

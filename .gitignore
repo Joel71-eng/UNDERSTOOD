@@ -1,0 +1,73 @@
+# === Understood (multimodal build) ===============================================================
+# Tailored to this project's actual layout (mm_app.py / mm_engine.py / bank_build.py / mm_server.py),
+# not a generic Python template - see the comment on each section for why it's here.
+
+# ---- Python runtime ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Virtual environments ---------------------------------------------------------------------
+venv/
+.venv/
+env/
+ENV/
+
+# ---- App runtime data (UNDERSTOOD_DATA, default ~/understood_data) ------------------------------
+# Per-learner conversations, uploads, generated images/videos/PDFs, checkpoints: all personal,
+# all regenerable, none of it belongs in source control.
+understood_data/
+*/understood_data/
+uploads/
+*.mp4
+*.wav
+
+# ---- Diagram bank build artifacts (bank_build.py / bank_fetch.py) -------------------------------
+# _cache/ is the raw Wikimedia Commons download cache (bank_build.py line ~204/813) - huge, and
+# trivially rebuilt offline from source/. review/ is the numbered picker sheet, regenerated every
+# build. miss_log.jsonl / naming_log.jsonl are local operational logs, not project content.
+# NOTE: this does NOT ignore the approved bank itself (<id>.png / <id>.json / approved.txt /
+# index.json) - that's curated content you've manually reviewed and is worth versioning. If the
+# bank grows too large for git, move bank/ to Drive/Git LFS and ignore it here instead.
+bank/_cache/
+bank/review/
+bank/source/
+miss_log.jsonl
+naming_log.jsonl
+*.log
+
+# ---- Model weights (never belong in git; distributed via Drive, not GitHub) ---------------------
+models_local/
+lightning_lora/
+*.safetensors
+*.onnx
+*.gguf
+*.ckpt
+*.pt
+*.bin
+
+# ---- Secrets / local config --------------------------------------------------------------------
+.env
+.env.*
+.streamlit/secrets.toml
+*secrets*.toml
+
+# ---- Jupyter / Colab ----------------------------------------------------------------------------
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ---- Packaged deliverables (rebuilt from source, not source themselves) -------------------------
+*.zip
+dist/
+build/
+
+# ---- Editor / OS cruft --------------------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp

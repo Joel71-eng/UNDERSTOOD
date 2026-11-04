@@ -1,0 +1,84 @@
+{
+ "id": "endocrine_system",
+ "title": "endocrine system",
+ "aliases": [
+  "endocrine system",
+  "glands"
+ ],
+ "size": [
+  1400,
+  1379
+ ],
+ "parts": [
+  {
+   "name": "pineal gland",
+   "anchor": [
+    0.4526,
+    0.1198
+   ],
+   "side": "left"
+  },
+  {
+   "name": "pituitary gland",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "thyroidgland",
+   "anchor": [
+    0.4973,
+    0.4204
+   ],
+   "side": "left"
+  },
+  {
+   "name": "adrenalgland",
+   "anchor": [
+    0.5553,
+    0.625
+   ],
+   "side": "left"
+  },
+  {
+   "name": "pancreas",
+   "anchor": [
+    0.7408,
+    0.6862
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ovary",
+   "anchor": [
+    0.2627,
+    0.8111
+   ],
+   "side": "left"
+  },
+  {
+   "name": "testis",
+   "anchor": [
+    0.7534,
+    0.8991
+   ],
+   "side": "left"
+  },
+  {
+   "name": "parathyroid gland",
+   "anchor": [
+    0.5363,
+    0.3854
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Endocrine English.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Endocrine_English.svg",
+  "author": "OpenStax & Tom\u00e1\u0161 Kebert & umimeto.org",
+  "license": "CC BY-SA 4.0"
+ },
+ "credit": "Diagram: Endocrine English.svg by OpenStax & Tom\u00e1\u0161 Kebert & umimeto.org (CC BY-SA 4.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

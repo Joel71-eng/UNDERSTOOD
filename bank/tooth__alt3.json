@@ -1,0 +1,87 @@
+{
+ "id": "tooth__alt3",
+ "title": "tooth",
+ "aliases": [
+  "tooth",
+  "human tooth"
+ ],
+ "size": [
+  1400,
+  1117
+ ],
+ "parts": [
+  {
+   "name": "Enamel",
+   "anchor": [
+    0.3966,
+    0.2067
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Dentin",
+   "anchor": [
+    0.8341,
+    0.2856
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pulpchamber (blood vessels & nerves)",
+   "anchor": [
+    0.481,
+    0.4251
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Jaw bone",
+   "anchor": [
+    0.3433,
+    0.838
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Cementum",
+   "anchor": [
+    0.3771,
+    0.6448
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Gingiva",
+   "anchor": [
+    0.1973,
+    0.2912
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pit & fissure cavity",
+   "anchor": [
+    0.773,
+    0.1267
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Root cavity",
+   "anchor": [
+    0.6702,
+    0.4157
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Blausen 0864 ToothDecay.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Blausen_0864_ToothDecay.svg",
+  "author": "KDS4444",
+  "license": "CC BY-SA 4.0"
+ },
+ "credit": "Diagram: Blausen 0864 ToothDecay.svg by KDS4444 (CC BY-SA 4.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

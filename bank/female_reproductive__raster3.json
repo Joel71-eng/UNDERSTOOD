@@ -1,0 +1,134 @@
+{
+ "id": "female_reproductive__raster3",
+ "title": "female reproductive system",
+ "aliases": [
+  "female reproductive system"
+ ],
+ "size": [
+  1183,
+  512
+ ],
+ "parts": [
+  {
+   "name": "Parovarium",
+   "anchor": [
+    0.2823,
+    0.1934
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ligament",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Lateral angle",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Fallopian tube",
+   "anchor": [
+    0.0964,
+    0.3145
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ary",
+   "anchor": [
+    0.3356,
+    0.4258
+   ],
+   "side": "left"
+  },
+  {
+   "name": "of ovary",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Uterus",
+   "anchor": [
+    0.5444,
+    0.4551
+   ],
+   "side": "right"
+  },
+  {
+   "name": "of uterus",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "of body",
+   "anchor": [
+    0.7954,
+    0.334
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Fimbriated end of tube",
+   "anchor": [
+    0.2367,
+    0.457
+   ],
+   "side": "left"
+  },
+  {
+   "name": "of cervix",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Cavity",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Round ligament",
+   "anchor": [
+    0.4801,
+    0.207
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Broad",
+   "anchor": [
+    0.2899,
+    0.5059
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ligament",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Vaginal cavity",
+   "anchor": [
+    0.7582,
+    0.748
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:EB1911 Reproductive System, in Anatomy - A. uterus and broad ligament; B. uterine cavity.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:EB1911_Reproductive_System,_in_Anatomy_-_A._uterus_and_broad_ligament;_B._uterine_cavity.jpg",
+  "author": "From A. F. Dixon, Cunningham's Text-book of Anatomy",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: EB1911 Reproductive System, in Anatomy - A. uterus and broad ligament; B. uterine cavity.jpg by From A. F. Dixon, Cunningham's Text-book of Anatomy (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Ligament, Lateral angle, of ovary, of uterus, of cervix",
+  "anchor on blank background: Parovarium, Fallopian tube, ary, of body, Fimbriated end of tube",
+  "duplicate label names"
+ ]
+}

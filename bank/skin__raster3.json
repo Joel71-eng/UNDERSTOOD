@@ -1,0 +1,96 @@
+{
+ "id": "skin__raster3",
+ "title": "skin",
+ "aliases": [
+  "skin",
+  "human skin",
+  "skin layers"
+ ],
+ "size": [
+  1100,
+  1095
+ ],
+ "parts": [
+  {
+   "name": "Melanocytes",
+   "anchor": [
+    0.7973,
+    0.3708
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Epidermis",
+   "anchor": [
+    0.2936,
+    0.3489
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Dermis",
+   "anchor": [
+    0.3018,
+    0.716
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Sweat",
+   "anchor": [
+    0.7973,
+    0.6265
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Bloo",
+   "anchor": [
+    0.4027,
+    0.6621
+   ],
+   "side": "left"
+  },
+  {
+   "name": "vessels",
+   "anchor": [
+    0.3618,
+    0.6621
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Follicle",
+   "anchor": [
+    0.4664,
+    0.7772
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Oil",
+   "anchor": [
+    0.5455,
+    0.5498
+   ],
+   "side": "right"
+  },
+  {
+   "name": "gland",
+   "anchor": [
+    0.5691,
+    0.6475
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Anatomy The Skin - NCI Visuals Online.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Anatomy_The_Skin_-_NCI_Visuals_Online.jpg",
+  "author": "Don Bliss (artist)",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Anatomy The Skin - NCI Visuals Online.jpg by Don Bliss (artist) (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

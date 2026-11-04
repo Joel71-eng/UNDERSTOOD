@@ -1,0 +1,294 @@
+{
+ "id": "ear",
+ "title": "human ear",
+ "aliases": [
+  "human ear",
+  "ear",
+  "ear anatomy"
+ ],
+ "size": [
+  1400,
+  1484
+ ],
+ "parts": [
+  {
+   "name": "Face details:",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Mouth",
+   "anchor": [
+    0.74,
+    0.1347
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Ear",
+   "anchor": [
+    0.6881,
+    0.1007
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Nose",
+   "anchor": [
+    0.7393,
+    0.1125
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Cheek",
+   "anchor": [
+    0.7573,
+    0.1164
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Chin",
+   "anchor": [
+    0.7338,
+    0.1582
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Chest",
+   "anchor": [
+    0.7302,
+    0.2497
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Shoulder",
+   "anchor": [
+    0.6154,
+    0.2265
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Breasts",
+   "anchor": [
+    0.6808,
+    0.2746
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Nipples",
+   "anchor": [
+    0.6821,
+    0.2897
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Abdomen",
+   "anchor": [
+    0.7395,
+    0.3909
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Hand",
+   "anchor": [
+    0.5622,
+    0.5487
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Knee",
+   "anchor": [
+    0.6852,
+    0.7172
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ankle",
+   "anchor": [
+    0.6676,
+    0.9239
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Foot",
+   "anchor": [
+    0.6598,
+    0.9608
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Head",
+   "anchor": [
+    0.1488,
+    0.2179
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Neck",
+   "anchor": [
+    0.1292,
+    0.5376
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Trunk",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Legs",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Arm",
+   "anchor": [
+    0.0949,
+    0.4433
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Wrist",
+   "anchor": [
+    0.8887,
+    0.4956
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Palm",
+   "anchor": [
+    0.9128,
+    0.5303
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Thumb",
+   "anchor": [
+    0.9429,
+    0.5064
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Index finger",
+   "anchor": [
+    0.953,
+    0.5706
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Middle finger",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Ring finger",
+   "anchor": [
+    0.926,
+    0.5778
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Little finger",
+   "anchor": [
+    0.9209,
+    0.6297
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Hair",
+   "anchor": [
+    0.6867,
+    0.0679
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Eyes",
+   "anchor": [
+    0.7552,
+    0.0916
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Vulva",
+   "anchor": [
+    0.2413,
+    0.5543
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Penis",
+   "anchor": [
+    0.7429,
+    0.5358
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Scrotum",
+   "anchor": [
+    0.739,
+    0.5594
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Genitalia",
+   "anchor": [
+    0.4365,
+    0.5487
+   ],
+   "side": "left"
+  },
+  {
+   "name": "in males:",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "in females:",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Hand details:",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Anterior view of human female and male, with labels.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Anterior_view_of_human_female_and_male,_with_labels.svg",
+  "author": "Taken at City Studios in Stockholm (www.stockholmsfotografen.se), September 29, ",
+  "license": "CC0"
+ },
+ "credit": "Diagram: Anterior view of human female and male, with labels.svg by Taken at City Studios in Stockholm (www.stockholmsfotografen.se), September 29,  (CC0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: Face details:, Trunk, Legs, Middle finger, in males:",
+  "anchor on blank background: Ankle, Head, Neck, Arm, Index finger"
+ ]
+}

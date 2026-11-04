@@ -1,0 +1,105 @@
+{
+ "id": "bacterial_cell__raster3",
+ "title": "bacterial cell",
+ "aliases": [
+  "bacterial cell",
+  "bacterium",
+  "prokaryotic cell"
+ ],
+ "size": [
+  1482,
+  1177
+ ],
+ "parts": [
+  {
+   "name": "N-Acetyl Glucosamine",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "N-Acetyl Muramic acid",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Two tetrapeptide chains crosslinked",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "peptide",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Peptidoglycan layers",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Plasma membrane showing lipid",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "ilayer",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Bacteruim showing outer cell wall",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "and inner plasma membrane",
+   "anchor": [
+    0.1377,
+    0.7638
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Simplified schematic of cell wall",
+   "anchor": [
+    0.2679,
+    0.757
+   ],
+   "side": "left"
+  },
+  {
+   "name": "gram-positive bacterium",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "plasma",
+   "anchor": [
+    0.5088,
+    0.9278
+   ],
+   "side": "left"
+  },
+  {
+   "name": "teichoic acids not",
+   "anchor": [
+    0.4076,
+    0.9303
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Gram-positive cellwall-schematic.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Gram-positive_cellwall-schematic.png",
+  "author": "Twooars at English Wikipedia",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Gram-positive cellwall-schematic.png by Twooars at English Wikipedia (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "only 4 labels with a leader line",
+  "no leader line: N-Acetyl Glucosamine, N-Acetyl Muramic acid, Two tetrapeptide chains crosslinked, peptide, Peptidoglycan layers"
+ ]
+}

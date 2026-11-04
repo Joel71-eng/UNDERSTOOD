@@ -1,0 +1,282 @@
+{
+ "id": "digestive_system__raster1",
+ "title": "digestive system",
+ "aliases": [
+  "digestive system",
+  "digestion",
+  "alimentary canal"
+ ],
+ "size": [
+  1128,
+  1426
+ ],
+ "parts": [
+  {
+   "name": "tigament",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Ligament Right triangular of liver",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Of liver",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "liver",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Peritoneum",
+   "anchor": [
+    0.7456,
+    0.1592
+   ],
+   "side": "right"
+  },
+  {
+   "name": "tissue",
+   "anchor": [
+    0.8493,
+    0.1893
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Inferior",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Diaphragmatic end of",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Gastrophrenie ligament",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "lesser omentum",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Right phrenic arter",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Left gastric artery",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Phrenicotienal",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Hepatic artery",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "foramen",
+   "anchor": [
+    0.805,
+    0.338
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Lienal",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "HON",
+   "anchor": [
+    0.5913,
+    0.4201
+   ],
+   "side": "right"
+  },
+  {
+   "name": "artery",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Dot between two anterior",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "tigament",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Superior",
+   "anchor": [
+    0.0461,
+    0.432
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Middle coli",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Transverse of greater omentum",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Aorta",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Bare surface for descend",
+   "anchor": [
+    0.7447,
+    0.4523
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Right ant left kidneys",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ing",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "The tivo layers of the",
+   "anchor": [
+    0.7394,
+    0.5133
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Left",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "mesentery proper",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Right",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "arteries",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Bare",
+   "anchor": [
+    0.7358,
+    0.5687
+   ],
+   "side": "right"
+  },
+  {
+   "name": "inface for ascend",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Sigmoid artery",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "sft",
+   "anchor": [
+    0.5098,
+    0.554
+   ],
+   "side": "right"
+  },
+  {
+   "name": "hemorrhoidal artery",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Common",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "artery",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "mesocolon",
+   "anchor": [
+    0.7402,
+    0.6627
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Beternat itiae artery",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Batre Surface for rectum",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "epigastric",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Cut edge",
+   "anchor": [
+    0.961,
+    0.7826
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Gray1040.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Gray1040.png",
+  "author": "Henry Vandyke Carter",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Gray1040.png by Henry Vandyke Carter (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: tigament, Ligament Right triangular of liver, Of liver, liver, Inferior",
+  "anchor on blank background: tissue, Superior, Bare surface for descend, The tivo layers of the, Bare",
+  "duplicate label names"
+ ]
+}

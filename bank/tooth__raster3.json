@@ -1,0 +1,95 @@
+{
+ "id": "tooth__raster3",
+ "title": "tooth",
+ "aliases": [
+  "tooth",
+  "human tooth"
+ ],
+ "size": [
+  1800,
+  1800
+ ],
+ "parts": [
+  {
+   "name": "ENAMEL",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "CROWN",
+   "anchor": [
+    0.155,
+    0.1639
+   ],
+   "side": "left"
+  },
+  {
+   "name": "DENTIN",
+   "anchor": [
+    0.5578,
+    0.2467
+   ],
+   "side": "right"
+  },
+  {
+   "name": "DENTIN",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "TUBULES",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "DENTAL PULP",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "BLOOD",
+   "anchor": [
+    0.9283,
+    0.3539
+   ],
+   "side": "right"
+  },
+  {
+   "name": "NERVES",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "STROMA",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "CEMENTUM",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "ROOT",
+   "anchor": [
+    0.15,
+    0.6378
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ROOT APEX",
+   "anchor": null,
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Basic anatomy tooth.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Basic_anatomy_tooth.jpg",
+  "author": "User:Time3000 and User:Ian Furst",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Basic anatomy tooth.jpg by User:Time3000 and User:Ian Furst (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

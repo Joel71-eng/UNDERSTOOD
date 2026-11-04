@@ -1,0 +1,180 @@
+{
+ "id": "animal_cell__raster1",
+ "title": "animal cell",
+ "aliases": [
+  "animal cell"
+ ],
+ "size": [
+  896,
+  1800
+ ],
+ "parts": [
+  {
+   "name": "ESC Aggregate",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Simple",
+   "anchor": [
+    0.6194,
+    0.0478
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Simple",
+   "anchor": [
+    0.9699,
+    0.0483
+   ],
+   "side": "right"
+  },
+  {
+   "name": "PrEn",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "VEn",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Extra-embryonic",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Basement",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Endoderm",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Membrane",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Development",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Deposition",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Cavitation",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Legend",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "ICM",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Inner Cell Mass",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Cystic",
+   "anchor": [
+    0.654,
+    0.2417
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Day",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "PrEn",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Primitive Endoderm",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "VEn",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "VEn",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Visceral Endoderm",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Cavitation",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Basement Membrane",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "PrEc",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "PAC Proamniotic-like Cavity",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Primitive Ectoderm",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "stg",
+   "anchor": [
+    0.7768,
+    0.725
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:EB development and TJ formation.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:EB_development_and_TJ_formation.png",
+  "author": "Phua DCY, Xu J, Ali SM, Boey A, Gounko NV, Hunziker W",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: EB development and TJ formation.png by Phua DCY, Xu J, Ali SM, Boey A, Gounko NV, Hunziker W (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "only 4 labels with a leader line",
+  "no leader line: ESC Aggregate, PrEn, VEn, Extra-embryonic, Basement",
+  "anchor on blank background: Simple, Simple, Cystic",
+  "duplicate label names"
+ ]
+}

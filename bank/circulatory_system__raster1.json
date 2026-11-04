@@ -1,0 +1,327 @@
+{
+ "id": "circulatory_system__raster1",
+ "title": "circulatory system",
+ "aliases": [
+  "circulatory system",
+  "blood circulation"
+ ],
+ "size": [
+  728,
+  1100
+ ],
+ "parts": [
+  {
+   "name": "External carotid",
+   "anchor": [
+    0.9959,
+    0.2982
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Internal carotid",
+   "anchor": [
+    0.669,
+    0.0
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Axillary and",
+   "anchor": [
+    0.2363,
+    0.5055
+   ],
+   "side": "left"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.3036,
+    0.3718
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Vertebral",
+   "anchor": [
+    0.9931,
+    0.1782
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Common",
+   "anchor": [
+    0.9959,
+    0.2091
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Aorta",
+   "anchor": [
+    0.8626,
+    0.0845
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pulmonary",
+   "anchor": [
+    0.864,
+    0.0136
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.9821,
+    0.9991
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Coronary",
+   "anchor": [
+    0.9904,
+    0.4536
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.978,
+    0.9764
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Brachial",
+   "anchor": [
+    0.1484,
+    0.0
+   ],
+   "side": "left"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.2088,
+    0.5145
+   ],
+   "side": "left"
+  },
+  {
+   "name": "aorta",
+   "anchor": [
+    0.8915,
+    0.0
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.897,
+    0.4491
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.8819,
+    0.6491
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.9986,
+    0.4845
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Ulnar",
+   "anchor": [
+    0.1277,
+    0.9991
+   ],
+   "side": "left"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.9341,
+    0.9991
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Radial",
+   "anchor": [
+    0.0783,
+    0.9991
+   ],
+   "side": "left"
+  },
+  {
+   "name": "iliac",
+   "anchor": [
+    0.9011,
+    0.8155
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.853,
+    0.6109
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.956,
+    0.7682
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.8228,
+    0.8364
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Digital",
+   "anchor": [
+    0.0,
+    0.0482
+   ],
+   "side": "left"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.9588,
+    0.8636
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Supel",
+   "anchor": [
+    0.6703,
+    0.9991
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Subs",
+   "anchor": [
+    0.6497,
+    0.9318
+   ],
+   "side": "right"
+  },
+  {
+   "name": "fal",
+   "anchor": [
+    0.8173,
+    0.4864
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.8613,
+    0.7936
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Popliteal and",
+   "anchor": [
+    0.864,
+    0.8709
+   ],
+   "side": "right"
+  },
+  {
+   "name": "tiblal",
+   "anchor": [
+    0.7747,
+    0.9991
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.9025,
+    0.5782
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Posterior",
+   "anchor": [
+    0.7802,
+    0.9409
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Peroneal",
+   "anchor": [
+    0.717,
+    0.9991
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.8832,
+    0.5082
+   ],
+   "side": "right"
+  },
+  {
+   "name": "and",
+   "anchor": [
+    0.8489,
+    0.4845
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Arcuate",
+   "anchor": [
+    0.3901,
+    0.3582
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Circulatory System en rendersvg.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Circulatory_System_en_rendersvg.png",
+  "author": "LadyofHats , Mariana Ruiz Villarreal",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Circulatory System en rendersvg.png by LadyofHats , Mariana Ruiz Villarreal (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

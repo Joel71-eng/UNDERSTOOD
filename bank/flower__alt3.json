@@ -1,0 +1,79 @@
+{
+ "id": "flower__alt3",
+ "title": "flower",
+ "aliases": [
+  "flower",
+  "flower structure"
+ ],
+ "size": [
+  1400,
+  784
+ ],
+ "parts": [
+  {
+   "name": "cup",
+   "anchor": [
+    0.4055,
+    0.5364
+   ],
+   "side": "left"
+  },
+  {
+   "name": "dm-cu",
+   "anchor": [
+    0.5772,
+    0.6198
+   ],
+   "side": "right"
+  },
+  {
+   "name": "r-m",
+   "anchor": [
+    0.5349,
+    0.4435
+   ],
+   "side": "right"
+  },
+  {
+   "name": "CuA",
+   "anchor": [
+    0.4445,
+    0.5919
+   ],
+   "side": "right"
+  },
+  {
+   "name": "CuA",
+   "anchor": [
+    0.3868,
+    0.6217
+   ],
+   "side": "left"
+  },
+  {
+   "name": "bm-cu",
+   "anchor": [
+    0.4002,
+    0.4954
+   ],
+   "side": "left"
+  },
+  {
+   "name": "sc-r",
+   "anchor": [
+    0.6013,
+    0.2952
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Syrphidae (Merodon) wing veins.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Syrphidae_(Merodon)_wing_veins.svg",
+  "author": "Giancarlo Dess\u00ec",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Syrphidae (Merodon) wing veins.svg by Giancarlo Dess\u00ec (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

@@ -1,0 +1,104 @@
+{
+ "id": "endocrine_system__raster1",
+ "title": "endocrine system",
+ "aliases": [
+  "endocrine system",
+  "glands"
+ ],
+ "size": [
+  1159,
+  1021
+ ],
+ "parts": [
+  {
+   "name": "epifiza",
+   "anchor": [
+    0.4374,
+    0.1038
+   ],
+   "side": "left"
+  },
+  {
+   "name": "hipofiza",
+   "anchor": [
+    0.4953,
+    0.1557
+   ],
+   "side": "right"
+  },
+  {
+   "name": "paratiroida",
+   "anchor": [
+    0.5047,
+    0.38
+   ],
+   "side": "right"
+  },
+  {
+   "name": "glanda",
+   "anchor": [
+    0.4685,
+    0.4133
+   ],
+   "side": "left"
+  },
+  {
+   "name": "tiroida",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "glanda",
+   "anchor": [
+    0.245,
+    0.6308
+   ],
+   "side": "left"
+  },
+  {
+   "name": "uprarenal",
+   "anchor": [
+    0.673,
+    0.6347
+   ],
+   "side": "left"
+  },
+  {
+   "name": "pancreas",
+   "anchor": [
+    0.2174,
+    0.6797
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ovar",
+   "anchor": [
+    0.2804,
+    0.8286
+   ],
+   "side": "left"
+  },
+  {
+   "name": "testicul",
+   "anchor": [
+    0.7118,
+    0.9216
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Sistemul endocrin uman.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sistemul_endocrin_uman.png",
+  "author": "OpenStax & Tom\u00e1\u0161 Kebert & umimeto.org ; text: Avereanu",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: Sistemul endocrin uman.png by OpenStax & Tom\u00e1\u0161 Kebert & umimeto.org ; text: Avereanu (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: tiroida",
+  "duplicate label names"
+ ]
+}

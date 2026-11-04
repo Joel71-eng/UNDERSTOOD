@@ -1,0 +1,55 @@
+{
+ "id": "flower__raster2",
+ "title": "flower",
+ "aliases": [
+  "flower",
+  "flower structure"
+ ],
+ "size": [
+  1800,
+  1347
+ ],
+ "parts": [
+  {
+   "name": "PETAL",
+   "anchor": [
+    0.3206,
+    0.1915
+   ],
+   "side": "left"
+  },
+  {
+   "name": "SEPAL",
+   "anchor": [
+    0.6817,
+    0.6481
+   ],
+   "side": "right"
+  },
+  {
+   "name": "STAMEN",
+   "anchor": [
+    0.2806,
+    0.4447
+   ],
+   "side": "left"
+  },
+  {
+   "name": "PISTIL",
+   "anchor": [
+    0.4867,
+    0.6318
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Flower Anatomy (PSF).png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Flower_Anatomy_(PSF).png",
+  "author": "Pearson Scott Foresman",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Flower Anatomy (PSF).png by Pearson Scott Foresman (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

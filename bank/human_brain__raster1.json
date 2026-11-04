@@ -1,0 +1,269 @@
+{
+ "id": "human_brain__raster1",
+ "title": "human brain",
+ "aliases": [
+  "human brain",
+  "brain",
+  "brain anatomy"
+ ],
+ "size": [
+  1390,
+  1257
+ ],
+ "parts": [
+  {
+   "name": "Symptoms of",
+   "anchor": [
+    0.3396,
+    0.424
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Fibromyalgia",
+   "anchor": [
+    0.3137,
+    0.4471
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Systemic",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Central",
+   "anchor": [
+    0.3576,
+    0.1146
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pain",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Chronic headaches",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Eyes",
+   "anchor": [
+    0.5914,
+    0.2538
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Weight gain",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Vision",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Sleep disorders",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Cold symptoms",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Dizziness",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "problems Multiple",
+   "anchor": [
+    0.5475,
+    0.1344
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Cognitive impairment",
+   "anchor": [
+    0.3216,
+    0.3858
+   ],
+   "side": "left"
+  },
+  {
+   "name": "chemical",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Memory impairment",
+   "anchor": [
+    0.4317,
+    0.2554
+   ],
+   "side": "left"
+  },
+  {
+   "name": "sensitivity",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Anxiety",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Joint of jaw",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Depression",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Dysfunction",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Muscular",
+   "anchor": [
+    0.3324,
+    0.4988
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Skin",
+   "anchor": [
+    0.5835,
+    0.5163
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Myofascial",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Various complaints",
+   "anchor": [
+    0.8058,
+    0.6317
+   ],
+   "side": "right"
+  },
+  {
+   "name": "pain",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Fatigue",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "region",
+   "anchor": [
+    0.7216,
+    0.6293
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Twitches",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Pain",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Urinary",
+   "anchor": [
+    0.3223,
+    0.7454
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Stomach",
+   "anchor": [
+    0.5554,
+    0.7478
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Problems",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Nausea",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "urinating",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Joints",
+   "anchor": [
+    0.6353,
+    0.8186
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Morning stiffness",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Reproductive system",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Dysmenorrhea",
+   "anchor": [
+    0.3511,
+    0.7772
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Fibromyalgia symptoms.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fibromyalgia_symptoms.png",
+  "author": "Mikael H\u00e4ggstr\u00f6m",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Fibromyalgia symptoms.png by Mikael H\u00e4ggstr\u00f6m (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Systemic, Pain, Chronic headaches, Weight gain, Vision",
+  "anchor on blank background: Central, problems Multiple, Cognitive impairment, Various complaints, region",
+  "duplicate label names"
+ ]
+}

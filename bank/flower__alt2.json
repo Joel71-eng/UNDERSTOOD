@@ -1,0 +1,111 @@
+{
+ "id": "flower__alt2",
+ "title": "flower",
+ "aliases": [
+  "flower",
+  "flower structure"
+ ],
+ "size": [
+  1400,
+  808
+ ],
+ "parts": [
+  {
+   "name": "stigma",
+   "anchor": [
+    0.5217,
+    0.3667
+   ],
+   "side": "left"
+  },
+  {
+   "name": "style",
+   "anchor": [
+    0.5106,
+    0.4306
+   ],
+   "side": "left"
+  },
+  {
+   "name": "connective",
+   "anchor": [
+    0.8761,
+    0.5262
+   ],
+   "side": "right"
+  },
+  {
+   "name": "microsporangium",
+   "anchor": [
+    0.8305,
+    0.5945
+   ],
+   "side": "right"
+  },
+  {
+   "name": "pedicel",
+   "anchor": [
+    0.4499,
+    0.8505
+   ],
+   "side": "left"
+  },
+  {
+   "name": "nectary",
+   "anchor": [
+    0.4501,
+    0.7194
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ovary",
+   "anchor": [
+    0.4656,
+    0.528
+   ],
+   "side": "left"
+  },
+  {
+   "name": "filament",
+   "anchor": [
+    0.757,
+    0.7603
+   ],
+   "side": "right"
+  },
+  {
+   "name": "petal/corolla",
+   "anchor": [
+    0.4133,
+    0.5238
+   ],
+   "side": "left"
+  },
+  {
+   "name": "sepal/calyx",
+   "anchor": [
+    0.4155,
+    0.6601
+   ],
+   "side": "left"
+  },
+  {
+   "name": "floral axis",
+   "anchor": [
+    0.4688,
+    0.7102
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Mature flower diagram.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mature_flower_diagram.svg",
+  "author": "Mariana Ruiz LadyofHats",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Mature flower diagram.svg by Mariana Ruiz LadyofHats (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

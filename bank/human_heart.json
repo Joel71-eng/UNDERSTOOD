@@ -1,0 +1,167 @@
+{
+ "id": "human_heart",
+ "title": "human heart",
+ "aliases": [
+  "human heart",
+  "heart",
+  "heart anatomy"
+ ],
+ "size": [
+  1400,
+  1102
+ ],
+ "parts": [
+  {
+   "name": "Brachiocephalic artery",
+   "anchor": [
+    0.4638,
+    0.1301
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Superior vena cava",
+   "anchor": [
+    0.3958,
+    0.2609
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Right pulmonary arteries",
+   "anchor": [
+    0.3415,
+    0.3578
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Right pulmonary veins",
+   "anchor": [
+    0.3415,
+    0.4466
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Right atrium",
+   "anchor": [
+    0.3997,
+    0.5181
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Atrioventricular(tricuspid) valve",
+   "anchor": [
+    0.4619,
+    0.6204
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Chordae tendineae",
+   "anchor": [
+    0.4851,
+    0.6947
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Right ventricle",
+   "anchor": [
+    0.4592,
+    0.7259
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Inferior vena cava",
+   "anchor": [
+    0.4473,
+    0.841
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Left commoncarotid artery",
+   "anchor": [
+    0.5397,
+    0.1034
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Left subclavianartery",
+   "anchor": [
+    0.5792,
+    0.1353
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Aorta",
+   "anchor": [
+    0.5891,
+    0.2703
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Left pulmonaryarteries",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Left pulmonaryveins",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Left atrium",
+   "anchor": [
+    0.6614,
+    0.4889
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Semilunar valves",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Atrioventricular(mitral) valve",
+   "anchor": [
+    0.6664,
+    0.5553
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Left ventricle",
+   "anchor": [
+    0.697,
+    0.6366
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Septum",
+   "anchor": [
+    0.6174,
+    0.7249
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Heart diagram (en).svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Heart_diagram_(en).svg",
+  "author": "ZooFari , text added by Rehua",
+  "license": "CC BY-SA 3.0"
+ },
+ "credit": "Diagram: Heart diagram (en).svg by ZooFari , text added by Rehua (CC BY-SA 3.0), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

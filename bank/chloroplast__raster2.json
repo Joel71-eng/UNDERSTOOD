@@ -1,0 +1,131 @@
+{
+ "id": "chloroplast__raster2",
+ "title": "chloroplast",
+ "aliases": [
+  "chloroplast"
+ ],
+ "size": [
+  1800,
+  1264
+ ],
+ "parts": [
+  {
+   "name": "Norway",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Norway",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Norway",
+   "anchor": [
+    0.625,
+    0.1369
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Denmark",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "USA",
+   "anchor": [
+    0.4917,
+    0.307
+   ],
+   "side": "right"
+  },
+  {
+   "name": "USA",
+   "anchor": [
+    0.5478,
+    0.3616
+   ],
+   "side": "right"
+  },
+  {
+   "name": "USA",
+   "anchor": [
+    0.5656,
+    0.4296
+   ],
+   "side": "right"
+  },
+  {
+   "name": "USA",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Russia",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Subtype",
+   "anchor": [
+    0.6639,
+    0.8078
+   ],
+   "side": "right"
+  },
+  {
+   "name": "France",
+   "anchor": [
+    0.7806,
+    0.6669
+   ],
+   "side": "right"
+  },
+  {
+   "name": "France",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Subtype",
+   "anchor": [
+    0.6644,
+    0.6883
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Subtype",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Australia",
+   "anchor": null,
+   "side": "right"
+  },
+  {
+   "name": "Rebecca",
+   "anchor": [
+    0.0322,
+    0.9549
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Prymnesium parvum Gr1 lrg B.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Prymnesium_parvum_Gr1_lrg_B.jpg",
+  "author": "Heiner Kuhl, J\u00fcrgen F. H. Strassert, Dora \u010certnerov\u00e1, Elisabeth Varga, Eva Kreuz",
+  "license": "CC BY 4.0"
+ },
+ "credit": "Diagram: Prymnesium parvum Gr1 lrg B.jpg by Heiner Kuhl, J\u00fcrgen F. H. Strassert, Dora \u010certnerov\u00e1, Elisabeth Varga, Eva Kreuz (CC BY 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "no leader line: Norway, Norway, Denmark, USA, Russia",
+  "anchor on blank background: Norway, USA, USA, USA, Subtype",
+  "duplicate label names"
+ ]
+}

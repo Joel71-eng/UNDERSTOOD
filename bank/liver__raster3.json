@@ -1,0 +1,95 @@
+{
+ "id": "liver__raster3",
+ "title": "liver",
+ "aliases": [
+  "liver",
+  "human liver"
+ ],
+ "size": [
+  1103,
+  1103
+ ],
+ "parts": [
+  {
+   "name": "Esophagus",
+   "anchor": [
+    0.5041,
+    0.1142
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Liver",
+   "anchor": [
+    0.33,
+    0.3092
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Common bile duct",
+   "anchor": [
+    0.4977,
+    0.4506
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Stomach",
+   "anchor": [
+    0.66,
+    0.388
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Gall bladder",
+   "anchor": [
+    0.3944,
+    0.485
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Duodenu",
+   "anchor": [
+    0.408,
+    0.5594
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pancreas",
+   "anchor": [
+    0.6219,
+    0.4841
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Small intestine",
+   "anchor": [
+    0.5485,
+    0.6881
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Large intestine",
+   "anchor": [
+    0.3817,
+    0.6528
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Pancreas and nearby organs.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pancreas_and_nearby_organs.jpg",
+  "author": "Don Bliss (Illustrator)",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Pancreas and nearby organs.jpg by Don Bliss (Illustrator) (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

@@ -1,0 +1,110 @@
+{
+ "id": "female_reproductive",
+ "title": "female reproductive system",
+ "aliases": [
+  "female reproductive system"
+ ],
+ "size": [
+  1400,
+  761
+ ],
+ "parts": [
+  {
+   "name": "infundibulum",
+   "anchor": [
+    0.1887,
+    0.3275
+   ],
+   "side": "left"
+  },
+  {
+   "name": "fallopian tube",
+   "anchor": [
+    0.3022,
+    0.3187
+   ],
+   "side": "left"
+  },
+  {
+   "name": "fundus",
+   "anchor": [
+    0.5091,
+    0.314
+   ],
+   "side": "left"
+  },
+  {
+   "name": "uterus",
+   "anchor": [
+    0.5091,
+    0.4616
+   ],
+   "side": "right"
+  },
+  {
+   "name": "endometrium",
+   "anchor": [
+    0.5685,
+    0.4759
+   ],
+   "side": "right"
+  },
+  {
+   "name": "myometrium",
+   "anchor": [
+    0.5673,
+    0.6045
+   ],
+   "side": "right"
+  },
+  {
+   "name": "perimetrium",
+   "anchor": [
+    0.5852,
+    0.6463
+   ],
+   "side": "right"
+  },
+  {
+   "name": "vagina",
+   "anchor": [
+    0.5091,
+    0.8496
+   ],
+   "side": "right"
+  },
+  {
+   "name": "cervix",
+   "anchor": [
+    0.5091,
+    0.7364
+   ],
+   "side": "left"
+  },
+  {
+   "name": "ovary",
+   "anchor": [
+    0.2759,
+    0.4144
+   ],
+   "side": "left"
+  },
+  {
+   "name": "fimbriae",
+   "anchor": [
+    0.1899,
+    0.4693
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Illu cervix.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Illu_cervix.svg",
+  "author": "Original: \u200dUS Government Vector: Pixelsquid \ud83c\udfb1",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Illu cervix.svg by Original: \u200dUS Government Vector: Pixelsquid \ud83c\udfb1 (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

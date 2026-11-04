@@ -1,0 +1,447 @@
+{
+ "id": "circulatory_system",
+ "title": "circulatory system",
+ "aliases": [
+  "circulatory system",
+  "blood circulation"
+ ],
+ "size": [
+  1400,
+  1980
+ ],
+ "parts": [
+  {
+   "name": "Basilar artery",
+   "anchor": [
+    0.5324,
+    0.0903
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Internal carotid artery",
+   "anchor": [
+    0.5618,
+    0.0812
+   ],
+   "side": "right"
+  },
+  {
+   "name": "External carotid artery",
+   "anchor": [
+    0.5703,
+    0.1071
+   ],
+   "side": "right"
+  },
+  {
+   "name": "External jugular vein",
+   "anchor": [
+    0.5685,
+    0.1314
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Internal jugular vein",
+   "anchor": [
+    0.5609,
+    0.1545
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Vertebral arteries",
+   "anchor": [
+    0.5278,
+    0.1564
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Common carotid arteries",
+   "anchor": [
+    0.5568,
+    0.1877
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pulmonary arteries",
+   "anchor": [
+    0.5901,
+    0.237
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Pulmonary veins",
+   "anchor": [
+    0.5889,
+    0.2433
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Heart",
+   "anchor": [
+    0.5925,
+    0.2796
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Celiac trunk",
+   "anchor": [
+    0.5629,
+    0.334
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Hepatic vein",
+   "anchor": [
+    0.5416,
+    0.3385
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Renal veins",
+   "anchor": [
+    0.5157,
+    0.4101
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Renal artery",
+   "anchor": [
+    0.5751,
+    0.4126
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Gonadal vein",
+   "anchor": [
+    0.5763,
+    0.4437
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Gonadal artery",
+   "anchor": [
+    0.5782,
+    0.4609
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Common iliac vein",
+   "anchor": [
+    0.5513,
+    0.5039
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Common iliac artery",
+   "anchor": [
+    0.5682,
+    0.5099
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Internal iliac artery",
+   "anchor": [
+    0.5552,
+    0.5242
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Internal iliac vein",
+   "anchor": [
+    0.5528,
+    0.5369
+   ],
+   "side": "right"
+  },
+  {
+   "name": "External iliac vein",
+   "anchor": [
+    0.5779,
+    0.542
+   ],
+   "side": "right"
+  },
+  {
+   "name": "External iliac artery",
+   "anchor": [
+    0.5876,
+    0.549
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Great saphenous vein",
+   "anchor": [
+    0.5543,
+    0.5885
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Femoral artery",
+   "anchor": [
+    0.5867,
+    0.6422
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Femoral vein",
+   "anchor": [
+    0.5865,
+    0.6679
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Popliteal artery",
+   "anchor": [
+    0.5782,
+    0.7178
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Popliteal vein",
+   "anchor": [
+    0.588,
+    0.7255
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Small saphenous vein",
+   "anchor": [
+    0.6133,
+    0.7464
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Anterior tibial artery",
+   "anchor": [
+    0.574,
+    0.7854
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Posterior tibial artery",
+   "anchor": [
+    0.606,
+    0.8115
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Peroneal artery",
+   "anchor": [
+    0.587,
+    0.8358
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Anterior/posterior tibial veins",
+   "anchor": [
+    0.5811,
+    0.8477
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Dorsal venous arch",
+   "anchor": [
+    0.6135,
+    0.9346
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Dorsal digital vein",
+   "anchor": [
+    0.6457,
+    0.9647
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Dorsal digital arteries",
+   "anchor": [
+    0.4255,
+    0.9623
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Arcuate artery",
+   "anchor": [
+    0.4561,
+    0.9597
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Digital artery",
+   "anchor": [
+    0.1812,
+    0.5362
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Palmar digital veins",
+   "anchor": [
+    0.1807,
+    0.554
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Ulnar artery",
+   "anchor": [
+    0.3569,
+    0.4107
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Radial artery",
+   "anchor": [
+    0.2597,
+    0.4473
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Cephalic vein",
+   "anchor": [
+    0.3566,
+    0.3653
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Median cubital vein",
+   "anchor": [
+    0.2602,
+    0.4058
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Basilic vein",
+   "anchor": [
+    0.3692,
+    0.345
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Branchial artery",
+   "anchor": [
+    0.3603,
+    0.3335
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Inferior Vena cava",
+   "anchor": [
+    0.5473,
+    0.3078
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Descending Aorta",
+   "anchor": [
+    0.568,
+    0.3208
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Axillary artery",
+   "anchor": [
+    0.3872,
+    0.2393
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Axillary vein",
+   "anchor": [
+    0.4012,
+    0.2306
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Cephalic vein",
+   "anchor": [
+    0.3956,
+    0.2142
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Subclavian vein",
+   "anchor": [
+    0.4323,
+    0.2078
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Subclavian artery",
+   "anchor": [
+    0.4404,
+    0.1989
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Aorta",
+   "anchor": [
+    0.5635,
+    0.227
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Superior vena cava",
+   "anchor": [
+    0.5361,
+    0.2484
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Circulatory System en edited.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Circulatory_System_en_edited.svg",
+  "author": "File:Circulatory System en.svg : LadyofHats , Mariana Ruiz Villarreal derivative",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Circulatory System en edited.svg by File:Circulatory System en.svg : LadyofHats , Mariana Ruiz Villarreal derivative (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

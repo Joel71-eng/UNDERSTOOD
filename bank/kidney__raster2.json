@@ -1,0 +1,120 @@
+{
+ "id": "kidney__raster2",
+ "title": "kidney",
+ "aliases": [
+  "kidney",
+  "human kidney",
+  "urinary system"
+ ],
+ "size": [
+  1124,
+  1800
+ ],
+ "parts": [
+  {
+   "name": "Ure",
+   "anchor": [
+    0.234,
+    0.285
+   ],
+   "side": "left"
+  },
+  {
+   "name": "rib",
+   "anchor": [
+    0.2011,
+    0.3222
+   ],
+   "side": "left"
+  },
+  {
+   "name": "artery",
+   "anchor": [
+    0.6459,
+    0.5072
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Liver",
+   "anchor": [
+    0.3114,
+    0.5689
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Pancreas",
+   "anchor": [
+    0.427,
+    0.5344
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Sth fib",
+   "anchor": [
+    0.8069,
+    0.5439
+   ],
+   "side": "left"
+  },
+  {
+   "name": "rib",
+   "anchor": [
+    0.3488,
+    0.6178
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Left kidney",
+   "anchor": [
+    0.6948,
+    0.5561
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Right",
+   "anchor": [
+    0.3808,
+    0.5678
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Navel",
+   "anchor": [
+    0.2687,
+    0.8089
+   ],
+   "side": "right"
+  },
+  {
+   "name": "point",
+   "anchor": [
+    0.3105,
+    0.8172
+   ],
+   "side": "left"
+  },
+  {
+   "name": "iliac Spine",
+   "anchor": [
+    0.4297,
+    0.9744
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Surface projections of the organs of the trunk.png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Surface_projections_of_the_organs_of_the_trunk.png",
+  "author": "Mikael H\u00e4ggstr\u00f6m",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Surface projections of the organs of the trunk.png by Mikael H\u00e4ggstr\u00f6m (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": []
+}

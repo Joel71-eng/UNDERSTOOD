@@ -1,0 +1,88 @@
+{
+ "id": "virus",
+ "title": "virus",
+ "aliases": [
+  "virus",
+  "virus structure"
+ ],
+ "size": [
+  1400,
+  445
+ ],
+ "parts": [
+  {
+   "name": "Virus infects a file",
+   "anchor": [
+    0.3474,
+    0.2685
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Virus runs as an administrator",
+   "anchor": [
+    0.3156,
+    0.5303
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Virus runs as a normal user",
+   "anchor": [
+    0.5385,
+    0.5303
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Virus exploits root hole",
+   "anchor": [
+    0.1637,
+    0.8318
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Virus run by admin",
+   "anchor": [
+    0.3203,
+    0.8073
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Other infected programs",
+   "anchor": [
+    0.6128,
+    0.4309
+   ],
+   "side": "right"
+  },
+  {
+   "name": "Other infected programs",
+   "anchor": null,
+   "side": "left"
+  },
+  {
+   "name": "Virus infects install package",
+   "anchor": [
+    0.3956,
+    0.7078
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Virus attack tree.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Virus_attack_tree.svg",
+  "author": "Adius",
+  "license": "CC0"
+ },
+ "credit": "Diagram: Virus attack tree.svg by Adius (CC0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "no leader line: Other infected programs",
+  "anchor on blank background: Virus infects a file, Virus runs as an administrator, Virus runs as a normal user, Virus exploits root hole, Virus run by admin",
+  "duplicate label names"
+ ]
+}

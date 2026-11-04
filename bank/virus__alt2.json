@@ -1,0 +1,57 @@
+{
+ "id": "virus__alt2",
+ "title": "virus",
+ "aliases": [
+  "virus",
+  "virus structure"
+ ],
+ "size": [
+  1400,
+  1126
+ ],
+ "parts": [
+  {
+   "name": "Ovipositor",
+   "anchor": [
+    0.7395,
+    0.0606
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Hemocytes",
+   "anchor": [
+    0.6309,
+    0.1454
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Wasp egg",
+   "anchor": [
+    0.6934,
+    0.2792
+   ],
+   "side": "left"
+  },
+  {
+   "name": "Polydnavirus",
+   "anchor": [
+    0.6426,
+    0.3531
+   ],
+   "side": "left"
+  }
+ ],
+ "kind": "svg",
+ "source": {
+  "title": "File:Pdv-host.svg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pdv-host.svg",
+  "author": "en:User:Ikehiker (original); Pbroks13 ( talk ) (redraw)",
+  "license": "CC BY-SA 4.0"
+ },
+ "credit": "Diagram: Pdv-host.svg by en:User:Ikehiker (original); Pbroks13 ( talk ) (redraw) (CC BY-SA 4.0), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "only 4 labels with a leader line"
+ ]
+}

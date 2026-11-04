@@ -1,0 +1,51 @@
+{
+ "id": "flower__raster3",
+ "title": "flower",
+ "aliases": [
+  "flower",
+  "flower structure"
+ ],
+ "size": [
+  1800,
+  1507
+ ],
+ "parts": [
+  {
+   "name": "PETAL",
+   "anchor": [
+    0.3011,
+    0.2236
+   ],
+   "side": "left"
+  },
+  {
+   "name": "STAMEN",
+   "anchor": [
+    0.2711,
+    0.4585
+   ],
+   "side": "left"
+  },
+  {
+   "name": "PIsTIL",
+   "anchor": [
+    0.4689,
+    0.6211
+   ],
+   "side": "right"
+  }
+ ],
+ "kind": "raster",
+ "source": {
+  "title": "File:Flower (PSF).png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Flower_(PSF).png",
+  "author": "Pearson Scott Foresman",
+  "license": "Public domain"
+ },
+ "credit": "Diagram: Flower (PSF).png by Pearson Scott Foresman (Public domain), Wikimedia Commons; labels redrawn",
+ "flags": [
+  "RASTER picture (OCR + line detection): check every label position and spelling",
+  "only 3 labels with a leader line",
+  "anchor on blank background: PETAL, STAMEN, PIsTIL"
+ ]
+}
