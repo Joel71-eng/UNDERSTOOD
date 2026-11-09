@@ -1,0 +1,131 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, system-ui, "Segoe UI", sans-serif;
+  background: #f5f5f7;
+  color: #1a1a1a;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+  border-bottom: 1px solid #e0e0e0;
+  background: white;
+}
+.header h1 { font-size: 18px; margin: 0; }
+
+.thread {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.bubble {
+  max-width: 85%;
+  padding: 10px 14px;
+  border-radius: 14px;
+  line-height: 1.4;
+}
+.bubble.user { align-self: flex-end; background: #2d6cdf; color: white; }
+.bubble.assistant { align-self: flex-start; background: white; border: 1px solid #e0e0e0; }
+.bubble.live { opacity: 0.9; }
+.bubble.error { align-self: center; background: #ffe5e5; color: #a30000; }
+
+.bubble p { margin: 4px 0; }
+.md-section { margin: 6px 0; }
+.md-section h3 { font-size: 14px; margin: 0 0 2px; color: #2d6cdf; }
+.md-section p { margin: 0; }
+.out-note { font-style: italic; color: #555; }
+.out-plan { font-size: 12px; color: #888; }
+.out-image img { max-width: 100%; border-radius: 8px; display: block; }
+.out-image figcaption { font-size: 12px; color: #666; margin-top: 4px; }
+.out-video { max-width: 100%; border-radius: 8px; }
+.out-sources { font-size: 12px; color: #777; padding-left: 16px; }
+.out-file { display: inline-block; margin-top: 4px; }
+.out-unknown { color: #a30000; font-size: 12px; }
+
+.out-process { border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px 12px; margin: 4px 0; background: #fafafa; }
+.process-title { font-weight: 600; margin: 0 0 8px; }
+.process-shape { font-weight: 400; color: #888; font-size: 12px; }
+.process-step-head { display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #888; }
+.process-status { text-transform: capitalize; padding: 1px 8px; border-radius: 10px; background: #eee; }
+.process-status-ready { background: #e3f6e8; color: #1a7a3a; }
+.process-status-pending { background: #fff3cd; color: #8a6d00; }
+.process-step h4 { margin: 4px 0; }
+.process-step-img { max-width: 100%; border-radius: 8px; display: block; margin: 6px 0; }
+.process-nav { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 8px; }
+.process-nav button { padding: 5px 10px; border-radius: 6px; border: 1px solid #d0d0d0; background: white; cursor: pointer; font-size: 13px; }
+.process-nav button:disabled { opacity: 0.4; cursor: default; }
+.process-dots { display: flex; gap: 5px; }
+.process-dot {
+  width: 9px; height: 9px; padding: 0; border-radius: 50%; border: 1px solid #c0c0c0;
+  background: white; cursor: pointer;
+}
+.process-dot.active { background: #2d6cdf; border-color: #2d6cdf; }
+.process-dot-pending { border-color: #e0b400; }
+
+.choice-buttons { display: flex; gap: 8px; margin-top: 4px; }
+.choice-buttons button {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid #2d6cdf;
+  background: white;
+  color: #2d6cdf;
+  cursor: pointer;
+}
+.choice-buttons button:hover { background: #eef3ff; }
+
+.thinking { color: #888; }
+.progress { font-size: 12px; color: #888; }
+.cancel {
+  margin-top: 6px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  border: 1px solid #c00;
+  background: white;
+  color: #c00;
+  cursor: pointer;
+}
+
+.composer {
+  display: flex;
+  gap: 8px;
+  padding: 12px 16px;
+  border-top: 1px solid #e0e0e0;
+  background: white;
+  align-items: flex-end;
+}
+.composer textarea {
+  flex: 1;
+  resize: none;
+  min-height: 40px;
+  max-height: 120px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #d0d0d0;
+  font-family: inherit;
+  font-size: 14px;
+}
+.composer button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  background: #2d6cdf;
+  color: white;
+  cursor: pointer;
+}
+.composer button:disabled { background: #a7bde8; cursor: default; }
+.composer input[type="file"] { max-width: 90px; font-size: 11px; }
