@@ -1,0 +1,330 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, system-ui, "Segoe UI", sans-serif;
+  background: #f5f5f7;
+  color: #1a1a1a;
+}
+
+/* .layout is the two-column shell (Sidebar + .app) that mirrors Streamlit's st.sidebar + main-content
+   split. .app keeps its own max-width/centering WITHIN the remaining space, not the whole viewport, so
+   the chat column still reads comfortably on a wide monitor instead of stretching edge to edge. */
+.layout {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.sidebar {
+  width: 260px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 18px 14px;
+  background: #fafafa;
+  border-right: 1px solid #e0e0e0;
+  overflow-y: auto;
+}
+.sidebar-top { display: flex; align-items: center; justify-content: space-between; }
+.sidebar-title { font-size: 18px; margin: 0; }
+.sidebar-collapse, .sidebar-collapsed {
+  background: none; border: 1px solid #d0d0d0; border-radius: 6px; cursor: pointer; color: #666;
+  padding: 2px 8px; font-size: 13px;
+}
+.sidebar-collapsed { align-self: flex-start; margin: 10px; height: fit-content; }
+.sidebar-tagline { font-size: 12px; color: #888; margin: 2px 0 14px; }
+.sidebar-newchat {
+  padding: 9px 12px; border-radius: 8px; border: 1px solid #2d6cdf; background: white; color: #2d6cdf;
+  font-weight: 600; cursor: pointer; margin-bottom: 14px; font-size: 13px;
+}
+.sidebar-newchat:hover { background: #eef3ff; }
+.sidebar-threads { display: flex; flex-direction: column; gap: 2px; overflow-y: auto; flex: 1; }
+.sidebar-thread {
+  text-align: left; padding: 7px 8px; border-radius: 6px; border: none; background: none; cursor: pointer;
+  font-size: 13px; color: #333; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.sidebar-thread:hover { background: #eee; }
+.sidebar-thread.active { background: #e3ecfc; color: #2d6cdf; font-weight: 600; }
+.sidebar-retention { font-size: 11px; color: #999; margin: 10px 0 6px; }
+.sidebar-this-chat { border-top: 1px solid #e0e0e0; padding-top: 10px; margin-top: 6px; }
+
+.tools-panel { border-top: 1px solid #e0e0e0; margin-top: 14px; padding-top: 10px; }
+.tools-toggle { width: 100%; text-align: left; background: none; border: none; cursor: pointer; font-size: 13px; font-weight: 600; color: #444; padding: 2px 0; }
+.tools-hint { font-size: 11px; color: #999; margin: 4px 0 8px; }
+.tools-tabs { display: flex; gap: 4px; margin-bottom: 8px; }
+.tools-tab { flex: 1; padding: 5px; border-radius: 6px; border: 1px solid #d8d8d8; background: white; font-size: 12px; cursor: pointer; color: #555; }
+.tools-tab.active { background: #2d6cdf; border-color: #2d6cdf; color: white; }
+.tools-form { display: flex; flex-direction: column; gap: 6px; }
+.tools-textarea, .tools-input, .tools-select { font-size: 13px; padding: 6px 8px; border-radius: 6px; border: 1px solid #d0d0d0; font-family: inherit; }
+.tools-row { display: flex; gap: 6px; align-items: center; }
+.tools-row .tools-select { flex: 0 0 auto; }
+.tools-toggle-label { display: flex; align-items: center; gap: 5px; font-size: 12px; color: #555; }
+.tools-filelabel { font-size: 11px; color: #777; display: flex; flex-direction: column; gap: 3px; }
+.tools-btn { padding: 7px; border-radius: 6px; border: 1px solid #2d6cdf; background: white; color: #2d6cdf; font-size: 12px; cursor: pointer; font-weight: 600; }
+.tools-btn:hover:not(:disabled) { background: #eef3ff; }
+.tools-btn:disabled { opacity: 0.45; cursor: default; }
+.tools-btn-half { flex: 1; }
+.sidebar-section-label { font-size: 11px; font-weight: 600; color: #888; text-transform: uppercase; margin: 0 0 6px; }
+.sidebar-keep { display: flex; align-items: center; gap: 6px; font-size: 13px; color: #444; margin-bottom: 8px; cursor: pointer; }
+.sidebar-delete {
+  width: 100%; padding: 7px; border-radius: 6px; border: 1px solid #e0a0a0; background: white; color: #a30000;
+  cursor: pointer; font-size: 12px;
+}
+.sidebar-delete:hover { background: #fff0f0; }
+.sidebar-delete:disabled { opacity: 0.5; cursor: default; }
+
+.app {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 0; /* lets long content inside shrink instead of blowing out the flex row */
+  height: 100vh;
+  max-width: 760px;
+  margin: 0 auto;
+  overflow-x: hidden; /* a too-wide child (long unbroken text, a wide image) was eating the right margin by forcing scroll */
+  padding: 0 16px; /* equal breathing room on both sides, not just the left - was the "no margin on the right" bug */
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 0;
+  border-bottom: 1px solid #e0e0e0;
+  background: #f5f5f7;
+}
+.header h1 { font-size: 19px; margin: 0; }
+
+.thread {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.bubble {
+  max-width: 85%;
+  padding: 10px 14px;
+  border-radius: 14px;
+  line-height: 1.4;
+}
+.bubble.user { align-self: flex-end; background: #2d6cdf; color: white; }
+.bubble.assistant { align-self: flex-start; background: white; border: 1px solid #e0e0e0; }
+.bubble.live { opacity: 0.9; }
+.bubble.error { align-self: center; background: #ffe5e5; color: #a30000; }
+
+.bubble p { margin: 4px 0; }
+.md-section { margin: 6px 0; }
+.md-section h3 { font-size: 14px; margin: 0 0 2px; color: #2d6cdf; }
+.md-section p { margin: 0; }
+.out-note { font-style: italic; color: #555; }
+.out-plan { font-size: 12px; color: #888; }
+.out-image img { max-width: 100%; border-radius: 8px; display: block; }
+.out-image figcaption { font-size: 12px; color: #666; margin-top: 4px; }
+.out-video { max-width: 100%; border-radius: 8px; }
+.out-sources { font-size: 12px; color: #777; padding-left: 16px; }
+.out-file { display: inline-block; margin-top: 4px; }
+.out-unknown { color: #a30000; font-size: 12px; }
+
+.out-process { border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px 12px; margin: 4px 0; background: #fafafa; }
+.process-title { font-weight: 600; margin: 0 0 8px; }
+.process-shape { font-weight: 400; color: #888; font-size: 12px; }
+.process-step-head { display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #888; }
+.process-status { text-transform: capitalize; padding: 1px 8px; border-radius: 10px; background: #eee; }
+.process-status-ready { background: #e3f6e8; color: #1a7a3a; }
+.process-status-pending { background: #fff3cd; color: #8a6d00; }
+.process-step h4 { margin: 4px 0; }
+.process-step-img { max-width: 100%; border-radius: 8px; display: block; margin: 6px 0; }
+.process-nav { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 8px; }
+.process-nav button { padding: 5px 10px; border-radius: 6px; border: 1px solid #d0d0d0; background: white; cursor: pointer; font-size: 13px; }
+.process-nav button:disabled { opacity: 0.4; cursor: default; }
+.process-dots { display: flex; gap: 5px; }
+.process-dot {
+  width: 9px; height: 9px; padding: 0; border-radius: 50%; border: 1px solid #c0c0c0;
+  background: white; cursor: pointer;
+}
+.process-dot.active { background: #2d6cdf; border-color: #2d6cdf; }
+.process-dot-pending { border-color: #e0b400; }
+
+.choice-buttons { display: flex; gap: 8px; margin-top: 4px; }
+.choice-buttons button {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid #2d6cdf;
+  background: white;
+  color: #2d6cdf;
+  cursor: pointer;
+}
+.choice-buttons button:hover { background: #eef3ff; }
+
+.thinking { color: #888; }
+.progress { font-size: 12px; color: #888; }
+.live-log { font-size: 11px; color: #aaa; font-family: monospace; margin-top: 4px; }
+.suggestions { align-self: center; text-align: center; margin-top: 60px; display: flex; flex-direction: column; gap: 8px; align-items: center; }
+.suggestions-title { font-size: 13px; color: #999; margin-bottom: 2px; }
+.suggestion-chip {
+  padding: 8px 14px; border-radius: 16px; border: 1px solid #d8d8d8; background: white; color: #444;
+  font-size: 13px; cursor: pointer; max-width: 320px;
+}
+.suggestion-chip:hover { background: #f0f4ff; border-color: #2d6cdf; color: #2d6cdf; }
+.cancel {
+  margin-top: 6px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  border: 1px solid #c00;
+  background: white;
+  color: #c00;
+  cursor: pointer;
+}
+
+/* Output-kind picker (mirrors mm_app.py's Auto/Diagram/Process/Picture/Explain/Edit selectbox) sits
+   just above the composer, same spot Streamlit pins its settings row in st.bottom. */
+.out-kind-row { display: flex; flex-wrap: wrap; gap: 6px; padding-top: 10px; background: #f5f5f7; }
+.out-pill {
+  padding: 5px 12px; border-radius: 14px; border: 1px solid #d0d0d0; background: white;
+  color: #555; font-size: 13px; cursor: pointer;
+}
+.out-pill.active { background: #2d6cdf; border-color: #2d6cdf; color: white; }
+.out-pill:disabled { cursor: default; opacity: 0.6; }
+.out-kind-desc { font-size: 12px; color: #888; margin: 4px 0 8px; }
+
+/* Rounded, centered, and reactive to the available width (the .app max-width + side padding above does
+   the "centered and reactive" part - this is just the pill shape and spacing inside it). */
+.export-bar { margin: 0 16px 10px; padding: 10px 14px; border: 1px solid #e0e0e0; border-radius: 10px; background: #fafafa; }
+.export-title { font-weight: 600; font-size: 13px; margin: 0 0 8px; }
+.export-scope, .export-depth { display: flex; gap: 14px; margin-bottom: 8px; }
+.export-radio { display: flex; align-items: center; gap: 4px; font-size: 12px; color: #444; cursor: pointer; }
+.export-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.export-n { width: 50px; padding: 4px 6px; border-radius: 6px; border: 1px solid #d0d0d0; font-size: 12px; }
+.export-whole { display: flex; align-items: center; gap: 4px; font-size: 12px; color: #444; cursor: pointer; }
+.export-buttons { display: flex; gap: 8px; }
+.export-buttons button { flex: 1; padding: 7px; border-radius: 6px; border: 1px solid #2d6cdf; background: white; color: #2d6cdf; font-size: 12px; cursor: pointer; font-weight: 600; }
+.export-buttons button:hover { background: #eef3ff; }
+
+/* Centered independently of .app's own centering (so it re-centers correctly even if .app's max-width
+   or the sidebar width ever changes) and reactive to available space via min(100%, 720px) instead of a
+   fixed width - shrinks on a narrow window, caps out on a wide one.
+
+   .composer is now the outer "wrap": it holds the glow ::before (painted behind) and .composer-box (the
+   actual visible pill) as a separate, inset child. This two-layer split matters - a single element's own
+   ::before with z-index:-1 still paints ON TOP of that *same* element's background in CSS's stacking
+   order (background is always step 1, negative-z-index children are step 2, i.e. after it), so a glow
+   pseudo-element on .composer itself bled straight across the white instead of hiding behind it. Putting
+   the opaque box in its own child (.composer-box, z-index 1, a later paint step than the glow's z-index
+   0) fixes that: the box now genuinely paints over the glow except for the 3px margin gap, which is what
+   makes it read as a thin ring of light rather than a translucent wash. */
+.composer {
+  position: relative;
+  width: min(100%, 720px);
+  margin: 0 auto 16px;
+  border-radius: 27px;
+  /* Essential, not decorative: the composer is a wide, short pill (~720x60). Rotating a rectangle that
+     lopsided swings its corners far outside its own unrotated bounding box (basic trig - at a 45°
+     rotation a 720-wide box reaches roughly (720+60)/√2 ≈ 550px from center in each direction), so
+     without clipping, the "ring" turns into a huge diagonal bar sweeping across the whole page once per
+     spin. overflow:hidden + the border-radius above clips the spinning gradient back down to just the
+     rounded-pill ring it's meant to be. */
+  overflow: hidden;
+  /* Lives here, not on .composer-box: a child's box-shadow gets clipped by the parent's overflow:hidden,
+     but an element's own shadow is never clipped by its own overflow setting, so this is the one place
+     it can sit and still render outside the rounded pill. */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+}
+
+/* "Colored light moving around its borders when clicked" - a spinning conic-gradient fills the wrap;
+   .composer-box sits 3px inset with an opaque white background, so only that 3px margin shows the
+   gradient, reading as a ring of color chasing itself around the border. Toggled by App.jsx on textarea
+   focus/blur (.composer.active), so it only lights up while you're actually in the box, not all the time. */
+.composer.active::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: 27px;
+  background: conic-gradient(from 0deg, #2d6cdf, #7b2ff7, #ff2d78, #ffb02d, #2d6cdf);
+  animation: composer-glow-spin 2.4s linear infinite;
+}
+@keyframes composer-glow-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .composer.active::before { animation: none; }
+}
+
+.composer-box {
+  position: relative;
+  z-index: 1;
+  margin: 3px;
+  display: flex;
+  gap: 8px;
+  padding: 10px 14px;
+  border: 1px solid #e0e0e0;
+  border-radius: 24px;
+  background: white;
+  align-items: flex-end;
+  transition: border-color 0.2s ease;
+}
+.composer.active .composer-box {
+  border-color: transparent;
+  margin: 3px; /* unchanged - kept explicit so the ring width can't silently drift if either rule above is edited later */
+}
+.composer textarea {
+  flex: 1;
+  resize: none;
+  min-height: 40px;
+  max-height: 120px;
+  padding: 8px 4px;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-family: inherit;
+  font-size: 14px;
+}
+.send-btn {
+  padding: 8px 16px;
+  border-radius: 18px;
+  border: none;
+  background: #2d6cdf;
+  color: white;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.send-btn:disabled { background: #a7bde8; cursor: default; }
+
+/* The real fix for "raw html file selection icon": the native <input type=file> is hidden entirely and
+   triggered from this styled "+" button instead (see App.jsx) - browsers can't restyle the native one. */
+.hidden-file-input { display: none; }
+.attach-btn {
+  width: 34px; height: 34px; flex-shrink: 0;
+  border-radius: 50%; border: 1px solid #d0d0d0; background: white;
+  color: #2d6cdf; font-size: 19px; line-height: 1; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+}
+.attach-btn:disabled { opacity: 0.5; cursor: default; }
+.files-preview { font-size: 11px; color: #666; align-self: center; max-width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.parked-note { color: #8a6d00; font-style: italic; font-size: 13px; }
+.error-inline { color: #a30000; font-size: 13px; }
+.resume-btn {
+  align-self: center; padding: 8px 18px; border-radius: 18px; border: none;
+  background: #2d6cdf; color: white; cursor: pointer; font-size: 14px;
+}
+
+.out-download { display: inline-block; font-size: 12px; color: #2d6cdf; margin-top: 4px; text-decoration: none; }
+.out-download:hover { text-decoration: underline; }
+.out-image img, .process-step-img { cursor: zoom-in; }
+
+.viewer-backdrop {
+  position: fixed; inset: 0; background: rgba(0, 0, 0, 0.88);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  z-index: 1000; cursor: zoom-out; padding: 24px;
+}
+.viewer-img { max-width: 92vw; max-height: 78vh; border-radius: 6px; }
+.viewer-download {
+  margin-top: 14px; color: white; background: #2d6cdf; padding: 6px 16px;
+  border-radius: 14px; text-decoration: none; font-size: 13px;
+}
+.viewer-hint { color: #aaa; font-size: 12px; margin-top: 10px; }
