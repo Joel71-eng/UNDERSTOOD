@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Understood",
+    "slug": "understood-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gadjoel.understood",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Understood uses the camera so the tutor can look at a textbook page, diagram, or lab setup you photograph and explain it."
+      }
+    },
+    "android": {
+      "package": "com.gadjoel.understood",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": ["CAMERA"],
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "Understood uses the camera so the tutor can look at a textbook page, diagram, or lab setup you photograph and explain it."
+        }
+      ]
+    ]
+  }
+}

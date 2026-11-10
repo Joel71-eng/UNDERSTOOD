@@ -1,0 +1,118 @@
+# === Understood (multimodal build) ===============================================================
+# Tailored to this project's actual layout (mm_app.py / mm_engine.py / bank_build.py / mm_server.py),
+# not a generic Python template - see the comment on each section for why it's here.
+
+# ---- Python runtime ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Virtual environments ---------------------------------------------------------------------
+venv/
+.venv/
+env/
+ENV/
+
+# ---- App runtime data (UNDERSTOOD_DATA, default ~/understood_data) ------------------------------
+# Per-learner conversations, uploads, generated images/videos/PDFs, checkpoints: all personal,
+# all regenerable, none of it belongs in source control.
+understood_data/
+*/understood_data/
+uploads/
+*.mp4
+*.wav
+
+# ---- Diagram bank build artifacts (bank_build.py / bank_fetch.py) -------------------------------
+# _cache/ is the raw Wikimedia Commons download cache (bank_build.py line ~204/813) - huge, and
+# trivially rebuilt offline from source/. review/ is the numbered picker sheet, regenerated every
+# build. miss_log.jsonl / naming_log.jsonl are local operational logs, not project content.
+# NOTE: this does NOT ignore the approved bank itself (<id>.png / <id>.json / approved.txt /
+# index.json) - that's curated content you've manually reviewed and is worth versioning. If the
+# bank grows too large for git, move bank/ to Drive/Git LFS and ignore it here instead.
+bank/_cache/
+bank/review/
+bank/source/
+miss_log.jsonl
+naming_log.jsonl
+*.log
+
+# ---- Model weights (never belong in git; distributed via Drive, not GitHub) ---------------------
+models_local/
+lightning_lora/
+*.safetensors
+*.onnx
+*.gguf
+*.ckpt
+*.pt
+*.bin
+
+# ---- Secrets / local config --------------------------------------------------------------------
+.env
+.env.*
+.streamlit/secrets.toml
+*secrets*.toml
+
+# ---- Jupyter / Colab ----------------------------------------------------------------------------
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ---- Packaged deliverables (rebuilt from source, not source themselves) -------------------------
+*.zip
+dist/
+build/
+
+# ---- Web app (Vite/React, in web/) -------------------------------------------------------------
+# node_modules is the actual source of "tons of files": a fresh React+Vite install is typically
+# 20,000-40,000+ small files once every dependency's own dependencies are counted, none of which are
+# yours to version - `npm install` rebuilds it exactly from package-lock.json on any machine. This is
+# almost certainly what's overloading the repo if it ever got committed even once (git doesn't fully
+# forget a large commit just because a later commit deletes the files - see the note at the bottom of
+# this file if that's already happened).
+web/node_modules/
+node_modules/
+# dist/ above already covers web/dist (Vite's build output), but these are its other caches/logs:
+web/.vite/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tsbuildinfo
+
+# ---- Mobile app (Expo/React Native, in mobile/) --------------------------------------------------
+# Same story as web/node_modules - this is almost always the bulk of "tons of files" on the mobile
+# side too, plus Expo/Metro's own caches and (if `expo prebuild` is ever run) the generated native
+# android/ and ios/ projects, which are regenerable build output, not source, in a managed Expo app.
+mobile/node_modules/
+mobile/.expo/
+.expo/
+.expo-shared/
+mobile/android/
+mobile/ios/
+web-build/
+*.jsbundle
+metro-cache/
+.metro-health-check*
+
+# ---- Editor / OS cruft --------------------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# ---- If node_modules (or anything else here) was already committed before this .gitignore --------
+# Adding a pattern here only stops NEW files from being tracked - it does not untrack or shrink
+# history for files already committed. If `git status` still shows node_modules/ as tracked after
+# this, or your repo is already bloated from an earlier push, run this ONCE per folder to untrack it
+# without deleting it from disk (then commit the removal):
+#   git rm -r --cached web/node_modules mobile/node_modules
+# That shrinks future clones, but the old, large commits still live in your repo's history/.git
+# folder on GitHub. If the repo is painfully large even after that, the real fix is rewriting history
+# with `git filter-repo` (or BFG Repo-Cleaner) to strip node_modules out of every past commit, then
+# force-pushing - a more involved, one-time cleanup, worth doing only if GitHub is actually refusing
+# pushes or the clone is unreasonably slow. Ask and we can walk through it together.
