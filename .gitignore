@@ -3,6 +3,43 @@
 # not a generic Python template - see the comment on each section for why it's here.
 #gjl
 # ---- Python runtime ---------------------------------------------------------------------------
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Build outputs
+build/
+out/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
 __pycache__/
 *.py[cod]
 *.pyo

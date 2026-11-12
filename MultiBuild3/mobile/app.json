@@ -5,10 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "splash": {
-      "backgroundColor": "#ffffff"
-    },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.gadjoel.understood",
@@ -18,10 +17,10 @@
     },
     "android": {
       "package": "com.gadjoel.understood",
-      "adaptiveIcon": {
-        "backgroundColor": "#ffffff"
-      },
-      "permissions": ["CAMERA"],
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ],
       "softwareKeyboardLayoutMode": "pan"
     },
     "plugins": [
@@ -30,7 +29,18 @@
         {
           "cameraPermission": "Understood uses the camera so the tutor can look at a textbook page, diagram, or lab setup you photograph and explain it."
         }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#ffffff"
+        }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "764543db-6466-4c42-8574-ad6fc88e1a54"
+      }
+    }
   }
 }
